@@ -1,0 +1,379 @@
+CRITICAL - 2022-06-23 01:30:11 --> Undefined variable $username
+#0 C:\xampp\htdocs\lifeq\app\Controllers\Cuser.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 43)
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cuser->prosesLogin()
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cuser))
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-23 01:30:13 --> Undefined variable $username
+#0 C:\xampp\htdocs\lifeq\app\Controllers\Cuser.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 43)
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cuser->prosesLogin()
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cuser))
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-23 01:31:12 --> Undefined variable $username
+#0 C:\xampp\htdocs\lifeq\app\Controllers\Cuser.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 43)
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cuser->prosesLogin()
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cuser))
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-23 08:27:22 --> syntax error, unexpected token ";", expecting ")"
+#0 C:\xampp\htdocs\lifeq\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('Cuser/prosesLog...')
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('Cuser/prosesLog...')
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-23 09:01:33 --> syntax error, unexpected token "(", expecting identifier or variable or "{" or "$"
+#0 C:\xampp\htdocs\lifeq\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\lifeq\system\Common.php(1089): CodeIgniter\View\View->render('lifeq/Harris', Array, true)
+#2 C:\xampp\htdocs\lifeq\app\Controllers\Cuser.php(52): view('lifeq/Harris')
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cuser->prosesLogin()
+#4 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cuser))
+#5 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-23 09:03:23 --> syntax error, unexpected single-quoted string "Cuser/badanuser", expecting "," or ";"
+#0 C:\xampp\htdocs\lifeq\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\lifeq\system\Common.php(1089): CodeIgniter\View\View->render('lifeq/Harris', Array, true)
+#2 C:\xampp\htdocs\lifeq\app\Controllers\Cuser.php(52): view('lifeq/Harris')
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cuser->prosesLogin()
+#4 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cuser))
+#5 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-23 09:03:36 --> syntax error, unexpected single-quoted string "Cuser/badanuser"
+#0 C:\xampp\htdocs\lifeq\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\lifeq\system\Common.php(1089): CodeIgniter\View\View->render('lifeq/Harris', Array, true)
+#2 C:\xampp\htdocs\lifeq\app\Controllers\Cuser.php(52): view('lifeq/Harris')
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cuser->prosesLogin()
+#4 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cuser))
+#5 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-23 09:03:58 --> Class "http://localhost/lifeq/public" not found
+#0 C:\xampp\htdocs\lifeq\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\lifeq\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\lifeq\system\Common.php(1089): CodeIgniter\View\View->render('lifeq/Harris', Array, true)
+#3 C:\xampp\htdocs\lifeq\app\Controllers\Cuser.php(52): view('lifeq/Harris')
+#4 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cuser->prosesLogin()
+#5 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cuser))
+#6 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-06-23 09:04:10 --> syntax error, unexpected token "::"
+#0 C:\xampp\htdocs\lifeq\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\lifeq\system\Common.php(1089): CodeIgniter\View\View->render('lifeq/Harris', Array, true)
+#2 C:\xampp\htdocs\lifeq\app\Controllers\Cuser.php(52): view('lifeq/Harris')
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cuser->prosesLogin()
+#4 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cuser))
+#5 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-23 09:04:17 --> Call to undefined function badanuser()
+#0 C:\xampp\htdocs\lifeq\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\lifeq\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\lifeq\system\Common.php(1089): CodeIgniter\View\View->render('lifeq/Harris', Array, true)
+#3 C:\xampp\htdocs\lifeq\app\Controllers\Cuser.php(52): view('lifeq/Harris')
+#4 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cuser->prosesLogin()
+#5 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cuser))
+#6 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-06-23 09:05:47 --> Cannot call constructor
+#0 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(809): App\Controllers\Cuser->__construct()
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-23 09:06:02 --> Call to undefined function App\Controllers\get_instance()
+#0 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(809): App\Controllers\Cuser->__construct()
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-23 09:06:09 --> Undefined property: CodeIgniter\View\View::$CI
+#0 C:\xampp\htdocs\lifeq\app\Views\lifeq\Harris.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 68)
+#1 C:\xampp\htdocs\lifeq\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\lifeq\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\lifeq\system\Common.php(1089): CodeIgniter\View\View->render('lifeq/Harris', Array, true)
+#4 C:\xampp\htdocs\lifeq\app\Controllers\Cuser.php(52): view('lifeq/Harris')
+#5 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cuser->prosesLogin()
+#6 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cuser))
+#7 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-23 09:06:18 --> Call to undefined function App\Controllers\get_instance()
+#0 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(809): App\Controllers\Cuser->__construct()
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-23 09:07:05 --> Call to undefined function get_instance()
+#0 C:\xampp\htdocs\lifeq\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\lifeq\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\lifeq\system\Common.php(1089): CodeIgniter\View\View->render('lifeq/Harris', Array, true)
+#3 C:\xampp\htdocs\lifeq\app\Controllers\Cuser.php(52): view('lifeq/Harris')
+#4 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cuser->prosesLogin()
+#5 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cuser))
+#6 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-06-23 09:11:10 --> Call to undefined function badanuser()
+#0 C:\xampp\htdocs\lifeq\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\lifeq\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\lifeq\system\Common.php(1089): CodeIgniter\View\View->render('lifeq/Harris', Array, true)
+#3 C:\xampp\htdocs\lifeq\app\Controllers\Cuser.php(52): view('lifeq/Harris')
+#4 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cuser->prosesLogin()
+#5 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cuser))
+#6 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-06-23 09:22:31 --> Undefined variable $hasil
+#0 C:\xampp\htdocs\lifeq\app\Views\lifeq\Harris.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 73)
+#1 C:\xampp\htdocs\lifeq\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\lifeq\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\lifeq\system\Common.php(1089): CodeIgniter\View\View->render('lifeq/Harris', Array, true)
+#4 C:\xampp\htdocs\lifeq\app\Controllers\Cuser.php(52): view('lifeq/Harris')
+#5 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cuser->prosesLogin()
+#6 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cuser))
+#7 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-23 09:25:46 --> syntax error, unexpected token "echo"
+#0 C:\xampp\htdocs\lifeq\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('Cuser/prosesLog...')
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('Cuser/prosesLog...')
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-23 09:34:16 --> Undefined variable $hasil
+#0 C:\xampp\htdocs\lifeq\app\Views\lifeq\Harris.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 68)
+#1 C:\xampp\htdocs\lifeq\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\lifeq\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\lifeq\system\Common.php(1089): CodeIgniter\View\View->render('lifeq/Harris', Array, true)
+#4 C:\xampp\htdocs\lifeq\app\Controllers\Cuser.php(52): view('lifeq/Harris')
+#5 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cuser->prosesLogin()
+#6 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cuser))
+#7 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-23 09:34:54 --> Undefined variable $hasil
+#0 C:\xampp\htdocs\lifeq\app\Views\lifeq\Harris.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 68)
+#1 C:\xampp\htdocs\lifeq\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\lifeq\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\lifeq\system\Common.php(1089): CodeIgniter\View\View->render('lifeq/Harris', Array, true)
+#4 C:\xampp\htdocs\lifeq\app\Controllers\Cuser.php(52): view('lifeq/Harris')
+#5 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cuser->prosesLogin()
+#6 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cuser))
+#7 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-23 09:35:08 --> Undefined variable $hasil
+#0 C:\xampp\htdocs\lifeq\app\Views\lifeq\Harris.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 68)
+#1 C:\xampp\htdocs\lifeq\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\lifeq\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\lifeq\system\Common.php(1089): CodeIgniter\View\View->render('lifeq/Harris', Array, true)
+#4 C:\xampp\htdocs\lifeq\app\Controllers\Cuser.php(52): view('lifeq/Harris')
+#5 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cuser->prosesLogin()
+#6 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cuser))
+#7 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-23 09:38:37 --> syntax error, unexpected token "echo"
+#0 C:\xampp\htdocs\lifeq\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\lifeq\system\Common.php(1089): CodeIgniter\View\View->render('lifeq/Harris', Array, true)
+#2 C:\xampp\htdocs\lifeq\app\Controllers\Cuser.php(52): view('lifeq/Harris')
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cuser->prosesLogin()
+#4 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cuser))
+#5 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-23 09:38:49 --> syntax error, unexpected token "echo"
+#0 C:\xampp\htdocs\lifeq\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\lifeq\system\Common.php(1089): CodeIgniter\View\View->render('lifeq/Harris', Array, true)
+#2 C:\xampp\htdocs\lifeq\app\Controllers\Cuser.php(52): view('lifeq/Harris')
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cuser->prosesLogin()
+#4 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cuser))
+#5 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-23 09:39:00 --> Undefined variable $hasil
+#0 C:\xampp\htdocs\lifeq\app\Views\lifeq\Harris.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 68)
+#1 C:\xampp\htdocs\lifeq\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\lifeq\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\lifeq\system\Common.php(1089): CodeIgniter\View\View->render('lifeq/Harris', Array, true)
+#4 C:\xampp\htdocs\lifeq\app\Controllers\Cuser.php(52): view('lifeq/Harris')
+#5 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cuser->prosesLogin()
+#6 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cuser))
+#7 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-23 09:40:02 --> syntax error, unexpected variable "$hasil", expecting "," or ";"
+#0 C:\xampp\htdocs\lifeq\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\lifeq\system\Common.php(1089): CodeIgniter\View\View->render('lifeq/Harris', Array, true)
+#2 C:\xampp\htdocs\lifeq\app\Controllers\Cuser.php(52): view('lifeq/Harris')
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cuser->prosesLogin()
+#4 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cuser))
+#5 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-23 09:43:23 --> syntax error, unexpected token "echo"
+#0 C:\xampp\htdocs\lifeq\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\lifeq\system\Common.php(1089): CodeIgniter\View\View->render('lifeq/Harris', Array, true)
+#2 C:\xampp\htdocs\lifeq\app\Controllers\Cuser.php(53): view('lifeq/Harris')
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cuser->prosesLogin()
+#4 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cuser))
+#5 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-23 09:43:46 --> syntax error, unexpected token "echo"
+#0 C:\xampp\htdocs\lifeq\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\lifeq\system\Common.php(1089): CodeIgniter\View\View->render('lifeq/Harris', Array, true)
+#2 C:\xampp\htdocs\lifeq\app\Controllers\Cuser.php(53): view('lifeq/Harris')
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cuser->prosesLogin()
+#4 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cuser))
+#5 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-23 09:44:44 --> syntax error, unexpected token "echo"
+#0 C:\xampp\htdocs\lifeq\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\lifeq\system\Common.php(1089): CodeIgniter\View\View->render('lifeq/Harris', Array, true)
+#2 C:\xampp\htdocs\lifeq\app\Controllers\Cuser.php(53): view('lifeq/Harris')
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cuser->prosesLogin()
+#4 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cuser))
+#5 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-23 09:45:05 --> syntax error, unexpected token "echo"
+#0 C:\xampp\htdocs\lifeq\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\lifeq\system\Common.php(1089): CodeIgniter\View\View->render('lifeq/Harris', Array, true)
+#2 C:\xampp\htdocs\lifeq\app\Controllers\Cuser.php(53): view('lifeq/Harris')
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cuser->prosesLogin()
+#4 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cuser))
+#5 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-23 09:45:13 --> Undefined variable $hasil
+#0 C:\xampp\htdocs\lifeq\app\Views\lifeq\Harris.php(69): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 69)
+#1 C:\xampp\htdocs\lifeq\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\lifeq\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\lifeq\system\Common.php(1089): CodeIgniter\View\View->render('lifeq/Harris', Array, true)
+#4 C:\xampp\htdocs\lifeq\app\Controllers\Cuser.php(53): view('lifeq/Harris')
+#5 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cuser->prosesLogin()
+#6 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cuser))
+#7 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-23 09:47:42 --> Undefined variable $hasil
+#0 C:\xampp\htdocs\lifeq\app\Views\lifeq\Harris.php(69): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 69)
+#1 C:\xampp\htdocs\lifeq\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\lifeq\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\lifeq\system\Common.php(1089): CodeIgniter\View\View->render('lifeq/Harris', Array, true)
+#4 C:\xampp\htdocs\lifeq\app\Controllers\Cuser.php(53): view('lifeq/Harris')
+#5 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cuser->prosesLogin()
+#6 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cuser))
+#7 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-23 09:48:15 --> Undefined variable $hasil
+#0 C:\xampp\htdocs\lifeq\app\Views\lifeq\Harris.php(69): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 69)
+#1 C:\xampp\htdocs\lifeq\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\lifeq\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\lifeq\system\Common.php(1089): CodeIgniter\View\View->render('lifeq/Harris', Array, true)
+#4 C:\xampp\htdocs\lifeq\app\Controllers\Cuser.php(53): view('lifeq/Harris')
+#5 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cuser->prosesLogin()
+#6 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cuser))
+#7 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-23 09:48:58 --> Undefined variable $hasil
+#0 C:\xampp\htdocs\lifeq\app\Views\lifeq\Harris.php(69): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 69)
+#1 C:\xampp\htdocs\lifeq\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\lifeq\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\lifeq\system\Common.php(1089): CodeIgniter\View\View->render('lifeq/Harris', Array, true)
+#4 C:\xampp\htdocs\lifeq\app\Controllers\Cuser.php(53): view('lifeq/Harris')
+#5 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cuser->prosesLogin()
+#6 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cuser))
+#7 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-23 09:49:41 --> Undefined variable $hasil
+#0 C:\xampp\htdocs\lifeq\app\Views\lifeq\Harris.php(69): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 69)
+#1 C:\xampp\htdocs\lifeq\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\lifeq\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\lifeq\system\Common.php(1089): CodeIgniter\View\View->render('lifeq/Harris', Array, true)
+#4 C:\xampp\htdocs\lifeq\app\Controllers\Cuser.php(53): view('lifeq/Harris')
+#5 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cuser->prosesLogin()
+#6 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cuser))
+#7 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-23 09:49:59 --> syntax error, unexpected token "echo"
+#0 C:\xampp\htdocs\lifeq\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\lifeq\system\Common.php(1089): CodeIgniter\View\View->render('lifeq/Harris', Array, true)
+#2 C:\xampp\htdocs\lifeq\app\Controllers\Cuser.php(53): view('lifeq/Harris')
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cuser->prosesLogin()
+#4 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cuser))
+#5 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-23 13:07:11 --> Class "App\Models\M_Perhitungan_Harris" not found
+#0 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cuser->badanuser()
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cuser))
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-23 13:10:46 --> Class "App\Models\M_Perhitungan_Harris" not found
+#0 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cuser->badanuser()
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cuser))
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-23 13:10:51 --> Class "App\Models\M_Perhitungan_Harris" not found
+#0 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(809): App\Controllers\Cpharris->__construct()
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-23 13:30:21 --> syntax error, unexpected token "}", expecting ";" or "{"
+#0 C:\xampp\htdocs\lifeq\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('Cpharris/AKE')
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('Cpharris/AKE')
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-23 13:34:00 --> Call to undefined function App\Controllers\KalSem()
+#0 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-23 13:34:26 --> syntax error, unexpected token "return"
+#0 C:\xampp\htdocs\lifeq\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('Cpharris/AKE')
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('Cpharris/AKE')
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-23 13:34:42 --> syntax error, unexpected identifier "print_r"
+#0 C:\xampp\htdocs\lifeq\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('Cpharris/AKE')
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('Cpharris/AKE')
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-23 13:36:36 --> Call to undefined function App\Controllers\AKE()
+#0 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-23 13:36:42 --> Call to undefined function App\Controllers\AKE()
+#0 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}

@@ -1,0 +1,49 @@
+CRITICAL - 2022-07-04 00:10:20 --> Undefined offset: 0
+#0 C:\xampp\htdocs\lifeq2\app\Controllers\Cpharris.php(84): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\xampp\\htdocs...', 84, Array)
+#1 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#2 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#3 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-04 00:13:37 --> Undefined index: id_status
+#0 C:\xampp\htdocs\lifeq2\app\Controllers\Csaran.php(28): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 28, Array)
+#1 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(832): App\Controllers\Csaran->SaranM()
+#2 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Csaran))
+#3 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-04 00:50:50 --> Attempt to read property "ID_STATUS" on null
+#0 /Applications/MAMP/htdocs/lifeq/app/Controllers/Cpharris.php(62): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read...', '/Applications/M...', 62)
+#1 /Applications/MAMP/htdocs/lifeq/system/CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#2 /Applications/MAMP/htdocs/lifeq/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#3 /Applications/MAMP/htdocs/lifeq/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Applications/MAMP/htdocs/lifeq/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-07-04 01:00:43 --> Cannot delete or update a parent row: a foreign key constraint fails (`lifeq`.`status_badan`, CONSTRAINT `FK_STATUS_B_MENDAPATK_USER` FOREIGN KEY (`ID_USER`) REFERENCES `user` (`ID_USER`))
+CRITICAL - 2022-07-04 01:00:43 --> Cannot delete or update a parent row: a foreign key constraint fails (`lifeq`.`status_badan`, CONSTRAINT `FK_STATUS_B_MENDAPATK_USER` FOREIGN KEY (`ID_USER`) REFERENCES `user` (`ID_USER`))
+#0 /Applications/MAMP/htdocs/lifeq/system/Database/MySQLi/Connection.php(292): mysqli->query('DELETE FROM `us...', 0)
+#1 /Applications/MAMP/htdocs/lifeq/system/Database/BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('DELETE FROM `us...')
+#2 /Applications/MAMP/htdocs/lifeq/system/Database/BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('DELETE FROM `us...')
+#3 /Applications/MAMP/htdocs/lifeq/system/Database/BaseBuilder.php(2225): CodeIgniter\Database\BaseConnection->query('DELETE FROM `us...', Array, false)
+#4 /Applications/MAMP/htdocs/lifeq/system/Model.php(359): CodeIgniter\Database\BaseBuilder->delete()
+#5 /Applications/MAMP/htdocs/lifeq/system/BaseModel.php(963): CodeIgniter\Model->doDelete(Array, false)
+#6 /Applications/MAMP/htdocs/lifeq/app/Controllers/Cuser.php(155): CodeIgniter\BaseModel->delete(Array)
+#7 /Applications/MAMP/htdocs/lifeq/system/CodeIgniter.php(832): App\Controllers\Cuser->delete('4')
+#8 /Applications/MAMP/htdocs/lifeq/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cuser))
+#9 /Applications/MAMP/htdocs/lifeq/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /Applications/MAMP/htdocs/lifeq/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2022-07-04 01:02:38 --> Attempt to read property "ID_STATUS" on null
+#0 /Applications/MAMP/htdocs/lifeq/app/Controllers/Cpharris.php(62): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read...', '/Applications/M...', 62)
+#1 /Applications/MAMP/htdocs/lifeq/system/CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#2 /Applications/MAMP/htdocs/lifeq/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#3 /Applications/MAMP/htdocs/lifeq/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Applications/MAMP/htdocs/lifeq/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-04 01:48:00 --> Attempt to read property "ID_STATUS" on null
+#0 /Applications/MAMP/htdocs/lifeq/app/Controllers/Cpharris.php(62): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read...', '/Applications/M...', 62)
+#1 /Applications/MAMP/htdocs/lifeq/system/CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#2 /Applications/MAMP/htdocs/lifeq/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#3 /Applications/MAMP/htdocs/lifeq/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Applications/MAMP/htdocs/lifeq/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}

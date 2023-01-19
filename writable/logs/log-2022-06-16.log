@@ -1,0 +1,65 @@
+CRITICAL - 2022-06-16 14:06:12 --> Undefined variable $mha
+#0 C:\xampp\htdocs\lifeq\app\Views\lifeq\index.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 16)
+#1 C:\xampp\htdocs\lifeq\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\lifeq\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\lifeq\system\Common.php(1089): CodeIgniter\View\View->render('lifeq/index', Array, true)
+#4 C:\xampp\htdocs\lifeq\app\Controllers\C_user.php(16): view('lifeq/index', Array)
+#5 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\C_user->index()
+#6 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_user))
+#7 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-16 14:25:29 --> There is no data to insert.
+#0 C:\xampp\htdocs\lifeq\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\lifeq\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\xampp\htdocs\lifeq\app\Controllers\Cuser.php(27): CodeIgniter\Model->insert(Array)
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cuser->store()
+#4 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cuser))
+#5 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-16 14:25:58 --> There is no data to insert.
+#0 C:\xampp\htdocs\lifeq\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\lifeq\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\xampp\htdocs\lifeq\app\Controllers\Cuser.php(27): CodeIgniter\Model->insert(Array)
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cuser->store()
+#4 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cuser))
+#5 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-16 14:26:12 --> There is no data to insert.
+#0 C:\xampp\htdocs\lifeq\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\lifeq\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\xampp\htdocs\lifeq\app\Controllers\Cuser.php(27): CodeIgniter\Model->insert(Array)
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cuser->store()
+#4 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cuser))
+#5 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-16 14:26:41 --> There is no data to insert.
+#0 C:\xampp\htdocs\lifeq\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\lifeq\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\xampp\htdocs\lifeq\app\Controllers\Cuser.php(27): CodeIgniter\Model->insert(Array)
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cuser->store()
+#4 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cuser))
+#5 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-16 14:27:17 --> var_dump() expects at least 1 argument, 0 given
+#0 C:\xampp\htdocs\lifeq\app\Controllers\Cuser.php(26): var_dump()
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cuser->store()
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cuser))
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-16 14:40:51 --> Undefined property: stdClass::$id
+#0 C:\xampp\htdocs\lifeq\app\Views\lifeq\index.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 16)
+#1 C:\xampp\htdocs\lifeq\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\lifeq\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\lifeq\system\Common.php(1089): CodeIgniter\View\View->render('lifeq/index', Array, true)
+#4 C:\xampp\htdocs\lifeq\app\Controllers\Cuser.php(16): view('lifeq/index', Array)
+#5 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cuser->index()
+#6 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cuser))
+#7 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}

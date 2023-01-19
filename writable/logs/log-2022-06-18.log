@@ -1,0 +1,111 @@
+CRITICAL - 2022-06-18 02:06:07 --> Class "App\Models\M_keluarga" not found
+#0 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(809): App\Controllers\Ckeluarga->__construct()
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-18 02:06:39 --> Class "App\Models\M_keluarga" not found
+#0 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(809): App\Controllers\Ckeluarga->__construct()
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-18 02:06:40 --> Class "App\Models\M_keluarga" not found
+#0 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(809): App\Controllers\Ckeluarga->__construct()
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-18 02:06:44 --> Class "App\Models\M_keluarga" not found
+#0 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(809): App\Controllers\Ckeluarga->__construct()
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-18 02:07:30 --> Class "App\Models\M_keluarga" not found
+#0 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(809): App\Controllers\Ckeluarga->__construct()
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-18 02:07:31 --> Class "App\Models\M_keluarga" not found
+#0 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(809): App\Controllers\Ckeluarga->__construct()
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-18 02:08:08 --> Class "App\Models\M_keluarga" not found
+#0 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(809): App\Controllers\Ckeluarga->__construct()
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-18 02:09:22 --> Undefined variable $data
+#0 C:\xampp\htdocs\lifeq\app\Controllers\Ckeluarga.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 16)
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Ckeluarga->index()
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ckeluarga))
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-18 02:09:31 --> Undefined variable $keluarga
+#0 C:\xampp\htdocs\lifeq\app\Views\lifeq\keluarga.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 13)
+#1 C:\xampp\htdocs\lifeq\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\lifeq\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\lifeq\system\Common.php(1089): CodeIgniter\View\View->render('lifeq/keluarga', Array, true)
+#4 C:\xampp\htdocs\lifeq\app\Controllers\Ckeluarga.php(16): view('lifeq/keluarga')
+#5 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Ckeluarga->index()
+#6 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ckeluarga))
+#7 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-18 02:09:39 --> Class "App\Models\M_keluarga" not found
+#0 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(809): App\Controllers\Ckeluarga->__construct()
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2022-06-18 04:26:09 --> Duplicate entry '0' for key 'PRIMARY'
+CRITICAL - 2022-06-18 04:26:09 --> Duplicate entry '0' for key 'PRIMARY'
+#0 C:\xampp\htdocs\lifeq\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `us...', 0)
+#1 C:\xampp\htdocs\lifeq\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `us...')
+#2 C:\xampp\htdocs\lifeq\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `us...')
+#3 C:\xampp\htdocs\lifeq\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query('INSERT INTO `us...', Array, false)
+#4 C:\xampp\htdocs\lifeq\system\Model.php(239): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\lifeq\system\BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\lifeq\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\lifeq\app\Controllers\Cuser.php(29): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cuser->store()
+#9 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cuser))
+#10 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+ERROR - 2022-06-18 04:26:17 --> Duplicate entry '0' for key 'PRIMARY'
+CRITICAL - 2022-06-18 04:26:17 --> Duplicate entry '0' for key 'PRIMARY'
+#0 C:\xampp\htdocs\lifeq\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `us...', 0)
+#1 C:\xampp\htdocs\lifeq\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `us...')
+#2 C:\xampp\htdocs\lifeq\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `us...')
+#3 C:\xampp\htdocs\lifeq\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query('INSERT INTO `us...', Array, false)
+#4 C:\xampp\htdocs\lifeq\system\Model.php(239): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\lifeq\system\BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\lifeq\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\lifeq\app\Controllers\Cuser.php(29): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cuser->store()
+#9 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cuser))
+#10 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+ERROR - 2022-06-18 04:27:06 --> Duplicate entry '0' for key 'PRIMARY'
+CRITICAL - 2022-06-18 04:27:06 --> Duplicate entry '0' for key 'PRIMARY'
+#0 C:\xampp\htdocs\lifeq\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `us...', 0)
+#1 C:\xampp\htdocs\lifeq\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `us...')
+#2 C:\xampp\htdocs\lifeq\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `us...')
+#3 C:\xampp\htdocs\lifeq\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query('INSERT INTO `us...', Array, false)
+#4 C:\xampp\htdocs\lifeq\system\Model.php(239): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\lifeq\system\BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\lifeq\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\lifeq\app\Controllers\Cuser.php(29): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cuser->store()
+#9 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cuser))
+#10 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}

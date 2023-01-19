@@ -1,0 +1,111 @@
+CRITICAL - 2022-06-15 01:13:46 --> Invalid file: layout/template.php
+#0 C:\xampp\htdocs\cobaCI\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/template...')
+#1 C:\xampp\htdocs\cobaCI\system\View\View.php(226): CodeIgniter\View\View->render('layout/template', Array, true)
+#2 C:\xampp\htdocs\cobaCI\system\Common.php(1089): CodeIgniter\View\View->render('mha/edit', Array, true)
+#3 C:\xampp\htdocs\cobaCI\app\Controllers\Mha.php(49): view('mha/edit', Array)
+#4 C:\xampp\htdocs\cobaCI\system\CodeIgniter.php(832): App\Controllers\Mha->edit('11')
+#5 C:\xampp\htdocs\cobaCI\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mha))
+#6 C:\xampp\htdocs\cobaCI\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\cobaCI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-06-15 01:22:07 --> Too few arguments to function App\Controllers\Mha::edit(), 0 passed in C:\xampp\htdocs\cobaCI\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\cobaCI\system\CodeIgniter.php(832): App\Controllers\Mha->edit()
+#1 C:\xampp\htdocs\cobaCI\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mha))
+#2 C:\xampp\htdocs\cobaCI\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cobaCI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-15 01:22:13 --> Too few arguments to function App\Controllers\Mha::update(), 0 passed in C:\xampp\htdocs\cobaCI\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\cobaCI\system\CodeIgniter.php(832): App\Controllers\Mha->update()
+#1 C:\xampp\htdocs\cobaCI\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mha))
+#2 C:\xampp\htdocs\cobaCI\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cobaCI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-15 01:22:28 --> Too few arguments to function App\Controllers\Mha::edit(), 0 passed in C:\xampp\htdocs\cobaCI\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\cobaCI\system\CodeIgniter.php(832): App\Controllers\Mha->edit()
+#1 C:\xampp\htdocs\cobaCI\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mha))
+#2 C:\xampp\htdocs\cobaCI\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cobaCI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-15 01:27:49 --> Invalid file: layout/template.php
+#0 C:\xampp\htdocs\cobaCI\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/template...')
+#1 C:\xampp\htdocs\cobaCI\system\View\View.php(226): CodeIgniter\View\View->render('layout/template', Array, true)
+#2 C:\xampp\htdocs\cobaCI\system\Common.php(1089): CodeIgniter\View\View->render('mha/edit', Array, true)
+#3 C:\xampp\htdocs\cobaCI\app\Controllers\Mha.php(49): view('mha/edit', Array)
+#4 C:\xampp\htdocs\cobaCI\system\CodeIgniter.php(832): App\Controllers\Mha->edit('11')
+#5 C:\xampp\htdocs\cobaCI\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mha))
+#6 C:\xampp\htdocs\cobaCI\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\cobaCI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-06-15 01:41:08 --> Invalid file: layout/template.php
+#0 C:\xampp\htdocs\cobaCI\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/template...')
+#1 C:\xampp\htdocs\cobaCI\system\View\View.php(226): CodeIgniter\View\View->render('layout/template', Array, true)
+#2 C:\xampp\htdocs\cobaCI\system\Common.php(1089): CodeIgniter\View\View->render('mha/edit', Array, true)
+#3 C:\xampp\htdocs\cobaCI\app\Controllers\Mha.php(49): view('mha/edit', Array)
+#4 C:\xampp\htdocs\cobaCI\system\CodeIgniter.php(832): App\Controllers\Mha->edit('11')
+#5 C:\xampp\htdocs\cobaCI\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mha))
+#6 C:\xampp\htdocs\cobaCI\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\cobaCI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-06-15 01:41:15 --> Invalid file: layout/template.php
+#0 C:\xampp\htdocs\cobaCI\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/template...')
+#1 C:\xampp\htdocs\cobaCI\system\View\View.php(226): CodeIgniter\View\View->render('layout/template', Array, true)
+#2 C:\xampp\htdocs\cobaCI\system\Common.php(1089): CodeIgniter\View\View->render('mha/edit', Array, true)
+#3 C:\xampp\htdocs\cobaCI\app\Controllers\Mha.php(49): view('mha/edit', Array)
+#4 C:\xampp\htdocs\cobaCI\system\CodeIgniter.php(832): App\Controllers\Mha->edit('11')
+#5 C:\xampp\htdocs\cobaCI\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mha))
+#6 C:\xampp\htdocs\cobaCI\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\cobaCI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-06-15 01:41:40 --> Invalid file: layout/template.php
+#0 C:\xampp\htdocs\cobaCI\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/template...')
+#1 C:\xampp\htdocs\cobaCI\system\View\View.php(226): CodeIgniter\View\View->render('layout/template', Array, true)
+#2 C:\xampp\htdocs\cobaCI\system\Common.php(1089): CodeIgniter\View\View->render('mha/edit', Array, true)
+#3 C:\xampp\htdocs\cobaCI\app\Controllers\Mha.php(49): view('mha/edit', Array)
+#4 C:\xampp\htdocs\cobaCI\system\CodeIgniter.php(832): App\Controllers\Mha->edit('11')
+#5 C:\xampp\htdocs\cobaCI\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mha))
+#6 C:\xampp\htdocs\cobaCI\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\cobaCI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-06-15 01:42:15 --> Invalid file: layout/template.php
+#0 C:\xampp\htdocs\cobaCI\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/template...')
+#1 C:\xampp\htdocs\cobaCI\system\View\View.php(226): CodeIgniter\View\View->render('layout/template', Array, true)
+#2 C:\xampp\htdocs\cobaCI\system\Common.php(1089): CodeIgniter\View\View->render('mha/edit', Array, true)
+#3 C:\xampp\htdocs\cobaCI\app\Controllers\Mha.php(49): view('mha/edit', Array)
+#4 C:\xampp\htdocs\cobaCI\system\CodeIgniter.php(832): App\Controllers\Mha->edit('11')
+#5 C:\xampp\htdocs\cobaCI\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mha))
+#6 C:\xampp\htdocs\cobaCI\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\cobaCI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-06-15 01:47:52 --> View themes, no current section.
+#0 C:\xampp\htdocs\cobaCI\app\Views\mha\edit.php(41): CodeIgniter\View\View->endSection('content')
+#1 C:\xampp\htdocs\cobaCI\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\cobaCI\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\cobaCI\system\Common.php(1089): CodeIgniter\View\View->render('mha/edit', Array, true)
+#4 C:\xampp\htdocs\cobaCI\app\Controllers\Mha.php(51): view('mha/edit', Array)
+#5 C:\xampp\htdocs\cobaCI\system\CodeIgniter.php(832): App\Controllers\Mha->edit('11')
+#6 C:\xampp\htdocs\cobaCI\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mha))
+#7 C:\xampp\htdocs\cobaCI\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\cobaCI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-15 01:56:38 --> syntax error, unexpected token "endif", expecting end of file
+#0 C:\xampp\htdocs\cobaCI\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\cobaCI\system\Common.php(1089): CodeIgniter\View\View->render('mha/edit', Array, true)
+#2 C:\xampp\htdocs\cobaCI\app\Controllers\Mha.php(51): view('mha/edit', Array)
+#3 C:\xampp\htdocs\cobaCI\system\CodeIgniter.php(832): App\Controllers\Mha->edit('11')
+#4 C:\xampp\htdocs\cobaCI\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mha))
+#5 C:\xampp\htdocs\cobaCI\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cobaCI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2022-06-15 08:20:08 --> Error connecting to the database: No connection could be made because the target machine actively refused it
+CRITICAL - 2022-06-15 08:20:08 --> Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it
+#0 C:\xampp\htdocs\cobaCI\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\cobaCI\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 C:\xampp\htdocs\cobaCI\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\xampp\htdocs\cobaCI\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#4 C:\xampp\htdocs\cobaCI\app\Controllers\Mha.php(16): CodeIgniter\BaseModel->findAll()
+#5 C:\xampp\htdocs\cobaCI\system\CodeIgniter.php(832): App\Controllers\Mha->index()
+#6 C:\xampp\htdocs\cobaCI\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mha))
+#7 C:\xampp\htdocs\cobaCI\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\cobaCI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}

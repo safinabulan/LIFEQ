@@ -1,0 +1,72 @@
+CRITICAL - 2022-06-21 05:01:06 --> Undefined property: stdClass::$username
+#0 C:\xampp\htdocs\lifeq\app\Controllers\Cuser.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 41)
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cuser->prosesLogin()
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cuser))
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-21 05:04:44 --> Undefined property: App\Controllers\Cuser::$sesion
+#0 C:\xampp\htdocs\lifeq\app\Controllers\Cuser.php(44): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 44)
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cuser->prosesLogin()
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cuser))
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-21 05:05:11 --> Undefined property: App\Controllers\Cuser::$session
+#0 C:\xampp\htdocs\lifeq\app\Controllers\Cuser.php(44): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 44)
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cuser->prosesLogin()
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cuser))
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-21 05:05:41 --> Undefined property: App\Controllers\Cuser::$session
+#0 C:\xampp\htdocs\lifeq\app\Controllers\Cuser.php(44): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 44)
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cuser->prosesLogin()
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cuser))
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-06-21 10:49:28 --> Error connecting to the database: Access denied for user '****'@'localhost' (using password: NO)
+CRITICAL - 2022-06-21 10:49:28 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: NO)
+#0 /Applications/MAMP/htdocs/lifeq/system/Database/BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 /Applications/MAMP/htdocs/lifeq/system/Database/BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 /Applications/MAMP/htdocs/lifeq/system/Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#3 /Applications/MAMP/htdocs/lifeq/system/BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#4 /Applications/MAMP/htdocs/lifeq/app/Controllers/Cuser.php(15): CodeIgniter\BaseModel->findAll()
+#5 /Applications/MAMP/htdocs/lifeq/system/CodeIgniter.php(832): App\Controllers\Cuser->index()
+#6 /Applications/MAMP/htdocs/lifeq/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cuser))
+#7 /Applications/MAMP/htdocs/lifeq/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /Applications/MAMP/htdocs/lifeq/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2022-06-21 10:53:29 --> Error connecting to the database: MySQL server has gone away
+CRITICAL - 2022-06-21 10:53:29 --> Unable to connect to the database.
+Main connection [MySQLi]: MySQL server has gone away
+#0 /Applications/MAMP/htdocs/lifeq/system/Database/BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 /Applications/MAMP/htdocs/lifeq/system/Database/BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 /Applications/MAMP/htdocs/lifeq/system/Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#3 /Applications/MAMP/htdocs/lifeq/system/BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#4 /Applications/MAMP/htdocs/lifeq/app/Controllers/Cuser.php(15): CodeIgniter\BaseModel->findAll()
+#5 /Applications/MAMP/htdocs/lifeq/system/CodeIgniter.php(832): App\Controllers\Cuser->index()
+#6 /Applications/MAMP/htdocs/lifeq/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cuser))
+#7 /Applications/MAMP/htdocs/lifeq/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /Applications/MAMP/htdocs/lifeq/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-21 23:24:20 --> syntax error, unexpected identifier "https"
+#0 /Applications/MAMP/htdocs/lifeq/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 /Applications/MAMP/htdocs/lifeq/system/Common.php(1089): CodeIgniter\View\View->render('lifeq/vhome', Array, true)
+#2 /Applications/MAMP/htdocs/lifeq/app/Controllers/Cuser.php(16): view('lifeq/vhome', Array)
+#3 /Applications/MAMP/htdocs/lifeq/system/CodeIgniter.php(832): App\Controllers\Cuser->index()
+#4 /Applications/MAMP/htdocs/lifeq/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cuser))
+#5 /Applications/MAMP/htdocs/lifeq/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /Applications/MAMP/htdocs/lifeq/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-21 23:24:37 --> syntax error, unexpected identifier "https"
+#0 /Applications/MAMP/htdocs/lifeq/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 /Applications/MAMP/htdocs/lifeq/system/Common.php(1089): CodeIgniter\View\View->render('lifeq/vhome', Array, true)
+#2 /Applications/MAMP/htdocs/lifeq/app/Controllers/Cuser.php(16): view('lifeq/vhome', Array)
+#3 /Applications/MAMP/htdocs/lifeq/system/CodeIgniter.php(832): App\Controllers\Cuser->index()
+#4 /Applications/MAMP/htdocs/lifeq/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cuser))
+#5 /Applications/MAMP/htdocs/lifeq/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /Applications/MAMP/htdocs/lifeq/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}

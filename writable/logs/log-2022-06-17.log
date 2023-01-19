@@ -1,0 +1,189 @@
+CRITICAL - 2022-06-17 08:59:38 --> Undefined constant "Cuser"
+#0 C:\xampp\htdocs\lifeq\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\lifeq\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\lifeq\system\Common.php(1089): CodeIgniter\View\View->render('lifeq/login', Array, true)
+#3 C:\xampp\htdocs\lifeq\app\Controllers\Cuser.php(26): view('lifeq/login')
+#4 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cuser->signin()
+#5 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cuser))
+#6 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-06-17 09:07:32 --> Undefined constant "cuser"
+#0 C:\xampp\htdocs\lifeq\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\lifeq\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\lifeq\system\Common.php(1089): CodeIgniter\View\View->render('lifeq/login', Array, true)
+#3 C:\xampp\htdocs\lifeq\app\Controllers\Cuser.php(26): view('lifeq/login')
+#4 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cuser->signin()
+#5 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cuser))
+#6 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-06-17 09:09:17 --> Undefined property: stdClass::$password
+#0 C:\xampp\htdocs\lifeq\app\Controllers\Cuser.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 48)
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cuser->prosesLogin()
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cuser))
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-17 09:09:33 --> Undefined property: stdClass::$password
+#0 C:\xampp\htdocs\lifeq\app\Controllers\Cuser.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 48)
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cuser->prosesLogin()
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cuser))
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-17 09:10:06 --> password_verify(): Passing null to parameter #2 ($hash) of type string is deprecated
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'password_verify...', 'C:\\xampp\\htdocs...', 48)
+#1 C:\xampp\htdocs\lifeq\app\Controllers\Cuser.php(48): password_verify('aa', NULL)
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cuser->prosesLogin()
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cuser))
+#4 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-17 09:14:32 --> password_verify(): Passing null to parameter #2 ($hash) of type string is deprecated
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'password_verify...', 'C:\\xampp\\htdocs...', 48)
+#1 C:\xampp\htdocs\lifeq\app\Controllers\Cuser.php(48): password_verify('aa', NULL)
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cuser->prosesLogin()
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cuser))
+#4 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-17 09:19:27 --> password_verify(): Passing null to parameter #2 ($hash) of type string is deprecated
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'password_verify...', 'C:\\xampp\\htdocs...', 48)
+#1 C:\xampp\htdocs\lifeq\app\Controllers\Cuser.php(48): password_verify('aa', NULL)
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cuser->prosesLogin()
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cuser))
+#4 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-17 09:23:28 --> Undefined property: App\Controllers\Cuser::$input
+#0 C:\xampp\htdocs\lifeq\app\Controllers\Cuser.php(67): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 67)
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cuser->prosesLogin()
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cuser))
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-17 09:25:41 --> syntax error, unexpected token "else"
+#0 C:\xampp\htdocs\lifeq\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('Cuser/prosesLog...')
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('Cuser/prosesLog...')
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-17 09:25:56 --> syntax error, unexpected token "else"
+#0 C:\xampp\htdocs\lifeq\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('cuser/signin')
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('cuser/signin')
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-17 09:25:58 --> syntax error, unexpected token "else"
+#0 C:\xampp\htdocs\lifeq\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('cuser')
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('cuser')
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-17 09:25:59 --> syntax error, unexpected token "else"
+#0 C:\xampp\htdocs\lifeq\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('Cuser/create')
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('Cuser/create')
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-17 09:26:10 --> syntax error, unexpected token "else"
+#0 C:\xampp\htdocs\lifeq\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('cuser')
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('cuser')
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-17 09:26:20 --> syntax error, unexpected token "else"
+#0 C:\xampp\htdocs\lifeq\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('Cuser')
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('Cuser')
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-17 09:26:50 --> password_verify(): Passing null to parameter #2 ($hash) of type string is deprecated
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'password_verify...', 'C:\\xampp\\htdocs...', 48)
+#1 C:\xampp\htdocs\lifeq\app\Controllers\Cuser.php(48): password_verify('aa', NULL)
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cuser->prosesLogin()
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cuser))
+#4 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-17 09:34:20 --> password_verify(): Passing null to parameter #2 ($hash) of type string is deprecated
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'password_verify...', 'C:\\xampp\\htdocs...', 48)
+#1 C:\xampp\htdocs\lifeq\app\Controllers\Cuser.php(48): password_verify('aa', NULL)
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cuser->prosesLogin()
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cuser))
+#4 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-17 09:40:29 --> Undefined property: stdClass::$password
+#0 C:\xampp\htdocs\lifeq\app\Controllers\Cuser.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 48)
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cuser->prosesLogin()
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cuser))
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-17 09:40:46 --> Undefined property: stdClass::$password
+#0 C:\xampp\htdocs\lifeq\app\Controllers\Cuser.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 48)
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cuser->prosesLogin()
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cuser))
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-17 09:45:26 --> syntax error, unexpected identifier "var_dump"
+#0 C:\xampp\htdocs\lifeq\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('Cuser/prosesLog...')
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('Cuser/prosesLog...')
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-17 09:45:47 --> syntax error, unexpected identifier "var_dump"
+#0 C:\xampp\htdocs\lifeq\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('Cuser/signin')
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('Cuser/signin')
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-17 09:45:52 --> syntax error, unexpected identifier "var_dump"
+#0 C:\xampp\htdocs\lifeq\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('Cuser')
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('Cuser')
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-17 09:51:59 --> password_verify(): Passing null to parameter #2 ($hash) of type string is deprecated
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'password_verify...', 'C:\\xampp\\htdocs...', 48)
+#1 C:\xampp\htdocs\lifeq\app\Controllers\Cuser.php(48): password_verify('aa', NULL)
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cuser->prosesLogin()
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cuser))
+#4 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-17 09:53:22 --> password_verify(): Passing null to parameter #2 ($hash) of type string is deprecated
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'password_verify...', 'C:\\xampp\\htdocs...', 48)
+#1 C:\xampp\htdocs\lifeq\app\Controllers\Cuser.php(48): password_verify('qq', NULL)
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cuser->prosesLogin()
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cuser))
+#4 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-17 09:55:50 --> password_verify(): Passing null to parameter #2 ($hash) of type string is deprecated
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'password_verify...', 'C:\\xampp\\htdocs...', 49)
+#1 C:\xampp\htdocs\lifeq\app\Controllers\Cuser.php(49): password_verify('qq', NULL)
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cuser->prosesLogin()
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cuser))
+#4 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-17 10:18:26 --> Undefined property: stdClass::$username
+#0 C:\xampp\htdocs\lifeq\app\Controllers\Cuser.php(50): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 50)
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cuser->prosesLogin()
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cuser))
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}

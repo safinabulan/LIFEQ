@@ -1,0 +1,473 @@
+CRITICAL - 2022-07-03 00:03:19 --> syntax error, unexpected token "."
+#0 /Applications/MAMP/htdocs/lifeq/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 /Applications/MAMP/htdocs/lifeq/system/Common.php(1089): CodeIgniter\View\View->render('lifeq/profile', Array, true)
+#2 /Applications/MAMP/htdocs/lifeq/app/Controllers/Cuser.php(136): view('lifeq/profile')
+#3 /Applications/MAMP/htdocs/lifeq/system/CodeIgniter.php(832): App\Controllers\Cuser->profile()
+#4 /Applications/MAMP/htdocs/lifeq/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cuser))
+#5 /Applications/MAMP/htdocs/lifeq/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /Applications/MAMP/htdocs/lifeq/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-07-03 00:06:49 --> The original file is not a valid file.
+#0 /Applications/MAMP/htdocs/lifeq/system/HTTP/Files/UploadedFile.php(137): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidFile()
+#1 /Applications/MAMP/htdocs/lifeq/app/Controllers/Cuser.php(116): CodeIgniter\HTTP\Files\UploadedFile->move('/Applications/M...', '1656824809_c976...')
+#2 /Applications/MAMP/htdocs/lifeq/system/CodeIgniter.php(832): App\Controllers\Cuser->update('11')
+#3 /Applications/MAMP/htdocs/lifeq/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cuser))
+#4 /Applications/MAMP/htdocs/lifeq/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /Applications/MAMP/htdocs/lifeq/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-07-03 00:28:31 --> Undefined variable $dataUser
+#0 /Applications/MAMP/htdocs/lifeq/app/Controllers/Cuser.php(100): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', '/Applications/M...', 100)
+#1 /Applications/MAMP/htdocs/lifeq/system/CodeIgniter.php(832): App\Controllers\Cuser->update('11')
+#2 /Applications/MAMP/htdocs/lifeq/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cuser))
+#3 /Applications/MAMP/htdocs/lifeq/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Applications/MAMP/htdocs/lifeq/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-03 00:30:34 --> Undefined variable $user
+#0 /Applications/MAMP/htdocs/lifeq/app/Controllers/Cuser.php(99): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', '/Applications/M...', 99)
+#1 /Applications/MAMP/htdocs/lifeq/system/CodeIgniter.php(832): App\Controllers\Cuser->update('11')
+#2 /Applications/MAMP/htdocs/lifeq/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cuser))
+#3 /Applications/MAMP/htdocs/lifeq/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Applications/MAMP/htdocs/lifeq/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-03 00:35:59 --> Undefined array key "HK"
+#0 /Applications/MAMP/htdocs/lifeq/app/Controllers/Cpharris.php(72): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/Applications/M...', 72)
+#1 /Applications/MAMP/htdocs/lifeq/system/CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#2 /Applications/MAMP/htdocs/lifeq/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#3 /Applications/MAMP/htdocs/lifeq/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Applications/MAMP/htdocs/lifeq/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-03 10:26:18 --> The original file is not a valid file.
+#0 /Applications/MAMP/htdocs/lifeq/system/HTTP/Files/UploadedFile.php(137): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidFile()
+#1 /Applications/MAMP/htdocs/lifeq/app/Controllers/Cuser.php(88): CodeIgniter\HTTP\Files\UploadedFile->move('/Applications/M...', '1656861978_9869...')
+#2 /Applications/MAMP/htdocs/lifeq/system/CodeIgniter.php(832): App\Controllers\Cuser->update('13')
+#3 /Applications/MAMP/htdocs/lifeq/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cuser))
+#4 /Applications/MAMP/htdocs/lifeq/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /Applications/MAMP/htdocs/lifeq/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-07-03 10:46:10 --> The original file is not a valid file.
+#0 /Applications/MAMP/htdocs/lifeq/system/HTTP/Files/UploadedFile.php(137): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidFile()
+#1 /Applications/MAMP/htdocs/lifeq/app/Controllers/Cuser.php(88): CodeIgniter\HTTP\Files\UploadedFile->move('/Applications/M...', '1656863170_a6db...')
+#2 /Applications/MAMP/htdocs/lifeq/system/CodeIgniter.php(832): App\Controllers\Cuser->update('14')
+#3 /Applications/MAMP/htdocs/lifeq/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cuser))
+#4 /Applications/MAMP/htdocs/lifeq/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /Applications/MAMP/htdocs/lifeq/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-07-03 10:47:08 --> The original file is not a valid file.
+#0 /Applications/MAMP/htdocs/lifeq/system/HTTP/Files/UploadedFile.php(137): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidFile()
+#1 /Applications/MAMP/htdocs/lifeq/app/Controllers/Cuser.php(88): CodeIgniter\HTTP\Files\UploadedFile->move('/Applications/M...', '1656863228_4eb5...')
+#2 /Applications/MAMP/htdocs/lifeq/system/CodeIgniter.php(832): App\Controllers\Cuser->update('14')
+#3 /Applications/MAMP/htdocs/lifeq/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cuser))
+#4 /Applications/MAMP/htdocs/lifeq/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /Applications/MAMP/htdocs/lifeq/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-07-03 10:47:29 --> The original file is not a valid file.
+#0 /Applications/MAMP/htdocs/lifeq/system/HTTP/Files/UploadedFile.php(137): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidFile()
+#1 /Applications/MAMP/htdocs/lifeq/app/Controllers/Cuser.php(88): CodeIgniter\HTTP\Files\UploadedFile->move('/Applications/M...', '1656863249_26f5...')
+#2 /Applications/MAMP/htdocs/lifeq/system/CodeIgniter.php(832): App\Controllers\Cuser->update('14')
+#3 /Applications/MAMP/htdocs/lifeq/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cuser))
+#4 /Applications/MAMP/htdocs/lifeq/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /Applications/MAMP/htdocs/lifeq/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-07-03 11:13:55 --> Call to undefined function App\Controllers\alert()
+#0 /Applications/MAMP/htdocs/lifeq/system/CodeIgniter.php(832): App\Controllers\Cuser->pass('18')
+#1 /Applications/MAMP/htdocs/lifeq/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cuser))
+#2 /Applications/MAMP/htdocs/lifeq/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/lifeq/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-07-03 11:20:14 --> syntax error, unexpected token "public"
+#0 /Applications/MAMP/htdocs/lifeq/system/Router/Router.php(175): CodeIgniter\Router\Router->autoRoute('Cuser/gpass')
+#1 /Applications/MAMP/htdocs/lifeq/system/CodeIgniter.php(726): CodeIgniter\Router\Router->handle('Cuser/gpass')
+#2 /Applications/MAMP/htdocs/lifeq/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /Applications/MAMP/htdocs/lifeq/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Applications/MAMP/htdocs/lifeq/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-03 11:20:17 --> syntax error, unexpected token "public"
+#0 /Applications/MAMP/htdocs/lifeq/system/Router/Router.php(175): CodeIgniter\Router\Router->autoRoute('Cuser/gpass')
+#1 /Applications/MAMP/htdocs/lifeq/system/CodeIgniter.php(726): CodeIgniter\Router\Router->handle('Cuser/gpass')
+#2 /Applications/MAMP/htdocs/lifeq/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /Applications/MAMP/htdocs/lifeq/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Applications/MAMP/htdocs/lifeq/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-03 11:20:18 --> syntax error, unexpected token "public"
+#0 /Applications/MAMP/htdocs/lifeq/system/Router/Router.php(175): CodeIgniter\Router\Router->autoRoute('Cuser/profile')
+#1 /Applications/MAMP/htdocs/lifeq/system/CodeIgniter.php(726): CodeIgniter\Router\Router->handle('Cuser/profile')
+#2 /Applications/MAMP/htdocs/lifeq/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /Applications/MAMP/htdocs/lifeq/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Applications/MAMP/htdocs/lifeq/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-03 11:20:23 --> syntax error, unexpected token "public"
+#0 /Applications/MAMP/htdocs/lifeq/system/Router/Router.php(175): CodeIgniter\Router\Router->autoRoute('cuser')
+#1 /Applications/MAMP/htdocs/lifeq/system/CodeIgniter.php(726): CodeIgniter\Router\Router->handle('cuser')
+#2 /Applications/MAMP/htdocs/lifeq/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /Applications/MAMP/htdocs/lifeq/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Applications/MAMP/htdocs/lifeq/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-03 11:20:35 --> syntax error, unexpected token "public"
+#0 /Applications/MAMP/htdocs/lifeq/system/Router/Router.php(175): CodeIgniter\Router\Router->autoRoute('cuser')
+#1 /Applications/MAMP/htdocs/lifeq/system/CodeIgniter.php(726): CodeIgniter\Router\Router->handle('cuser')
+#2 /Applications/MAMP/htdocs/lifeq/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /Applications/MAMP/htdocs/lifeq/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Applications/MAMP/htdocs/lifeq/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-03 11:20:36 --> syntax error, unexpected token "public"
+#0 /Applications/MAMP/htdocs/lifeq/system/Router/Router.php(175): CodeIgniter\Router\Router->autoRoute('cuser')
+#1 /Applications/MAMP/htdocs/lifeq/system/CodeIgniter.php(726): CodeIgniter\Router\Router->handle('cuser')
+#2 /Applications/MAMP/htdocs/lifeq/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /Applications/MAMP/htdocs/lifeq/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Applications/MAMP/htdocs/lifeq/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-03 11:20:37 --> syntax error, unexpected token "public"
+#0 /Applications/MAMP/htdocs/lifeq/system/Router/Router.php(175): CodeIgniter\Router\Router->autoRoute('cuser')
+#1 /Applications/MAMP/htdocs/lifeq/system/CodeIgniter.php(726): CodeIgniter\Router\Router->handle('cuser')
+#2 /Applications/MAMP/htdocs/lifeq/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /Applications/MAMP/htdocs/lifeq/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Applications/MAMP/htdocs/lifeq/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-03 13:46:25 --> Cannot redeclare App\Controllers\Cuser::gpass()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-07-03 13:51:40 --> Undefined array key "HK"
+#0 /Applications/MAMP/htdocs/lifeq/app/Controllers/Cpharris.php(72): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/Applications/M...', 72)
+#1 /Applications/MAMP/htdocs/lifeq/system/CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#2 /Applications/MAMP/htdocs/lifeq/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#3 /Applications/MAMP/htdocs/lifeq/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Applications/MAMP/htdocs/lifeq/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-07-03 14:08:40 --> Cannot delete or update a parent row: a foreign key constraint fails (`lifeqfit`.`status_badan`, CONSTRAINT `FK_STATUS_B_MENDAPATK_USER` FOREIGN KEY (`ID_USER`) REFERENCES `USER` (`ID_USER`))
+CRITICAL - 2022-07-03 14:08:40 --> Cannot delete or update a parent row: a foreign key constraint fails (`lifeqfit`.`status_badan`, CONSTRAINT `FK_STATUS_B_MENDAPATK_USER` FOREIGN KEY (`ID_USER`) REFERENCES `USER` (`ID_USER`))
+#0 /Applications/MAMP/htdocs/lifeq/system/Database/MySQLi/Connection.php(292): mysqli->query('DELETE FROM `us...', 0)
+#1 /Applications/MAMP/htdocs/lifeq/system/Database/BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('DELETE FROM `us...')
+#2 /Applications/MAMP/htdocs/lifeq/system/Database/BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('DELETE FROM `us...')
+#3 /Applications/MAMP/htdocs/lifeq/system/Database/BaseBuilder.php(2225): CodeIgniter\Database\BaseConnection->query('DELETE FROM `us...', Array, false)
+#4 /Applications/MAMP/htdocs/lifeq/system/Model.php(359): CodeIgniter\Database\BaseBuilder->delete()
+#5 /Applications/MAMP/htdocs/lifeq/system/BaseModel.php(963): CodeIgniter\Model->doDelete(Array, false)
+#6 /Applications/MAMP/htdocs/lifeq/app/Controllers/Cuser.php(155): CodeIgniter\BaseModel->delete(Array)
+#7 /Applications/MAMP/htdocs/lifeq/system/CodeIgniter.php(832): App\Controllers\Cuser->delete('23')
+#8 /Applications/MAMP/htdocs/lifeq/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cuser))
+#9 /Applications/MAMP/htdocs/lifeq/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /Applications/MAMP/htdocs/lifeq/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+ERROR - 2022-07-03 15:39:31 --> Cannot delete or update a parent row: a foreign key constraint fails (`lifeqfit`.`status_badan`, CONSTRAINT `FK_STATUS_B_MENDAPATK_USER` FOREIGN KEY (`ID_USER`) REFERENCES `USER` (`ID_USER`))
+CRITICAL - 2022-07-03 15:39:31 --> Cannot delete or update a parent row: a foreign key constraint fails (`lifeqfit`.`status_badan`, CONSTRAINT `FK_STATUS_B_MENDAPATK_USER` FOREIGN KEY (`ID_USER`) REFERENCES `USER` (`ID_USER`))
+#0 /Applications/MAMP/htdocs/lifeq/system/Database/MySQLi/Connection.php(292): mysqli->query('DELETE FROM `us...', 0)
+#1 /Applications/MAMP/htdocs/lifeq/system/Database/BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('DELETE FROM `us...')
+#2 /Applications/MAMP/htdocs/lifeq/system/Database/BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('DELETE FROM `us...')
+#3 /Applications/MAMP/htdocs/lifeq/system/Database/BaseBuilder.php(2225): CodeIgniter\Database\BaseConnection->query('DELETE FROM `us...', Array, false)
+#4 /Applications/MAMP/htdocs/lifeq/system/Model.php(359): CodeIgniter\Database\BaseBuilder->delete()
+#5 /Applications/MAMP/htdocs/lifeq/system/BaseModel.php(963): CodeIgniter\Model->doDelete(Array, false)
+#6 /Applications/MAMP/htdocs/lifeq/app/Controllers/Cuser.php(155): CodeIgniter\BaseModel->delete(Array)
+#7 /Applications/MAMP/htdocs/lifeq/system/CodeIgniter.php(832): App\Controllers\Cuser->delete('23')
+#8 /Applications/MAMP/htdocs/lifeq/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cuser))
+#9 /Applications/MAMP/htdocs/lifeq/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /Applications/MAMP/htdocs/lifeq/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2022-07-03 20:01:43 --> Class 'App\Models\M_makanan' not found
+#0 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(809): App\Controllers\Csaran->__construct()
+#1 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\lifeq2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-07-03 20:03:17 --> Undefined index: id_status
+#0 C:\xampp\htdocs\lifeq2\app\Controllers\Csaran.php(27): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 27, Array)
+#1 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(832): App\Controllers\Csaran->SaranM()
+#2 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Csaran))
+#3 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-03 20:04:34 --> Undefined index: id_riwayat
+#0 C:\xampp\htdocs\lifeq2\app\Controllers\Csaran.php(28): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 28, Array)
+#1 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(832): App\Controllers\Csaran->SaranM()
+#2 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Csaran))
+#3 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-03 20:18:02 --> Trying to get property 'ID_STATUS' of non-object
+#0 C:\xampp\htdocs\lifeq2\app\Controllers\Cpharris.php(60): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 60, Array)
+#1 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#2 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#3 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-03 20:19:21 --> Undefined index: id_riwayat
+#0 C:\xampp\htdocs\lifeq2\app\Controllers\Csaran.php(28): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 28, Array)
+#1 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(832): App\Controllers\Csaran->SaranM()
+#2 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Csaran))
+#3 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-03 20:22:43 --> Undefined index: id_riwayat
+#0 C:\xampp\htdocs\lifeq2\app\Controllers\Csaran.php(28): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 28, Array)
+#1 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(832): App\Controllers\Csaran->SaranM()
+#2 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Csaran))
+#3 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-03 20:25:52 --> Undefined index: id_riwayat
+#0 C:\xampp\htdocs\lifeq2\app\Controllers\Csaran.php(28): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 28, Array)
+#1 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(832): App\Controllers\Csaran->SaranM()
+#2 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Csaran))
+#3 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-03 20:26:05 --> Undefined index: id_riwayat
+#0 C:\xampp\htdocs\lifeq2\app\Controllers\Csaran.php(28): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 28, Array)
+#1 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(832): App\Controllers\Csaran->SaranM()
+#2 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Csaran))
+#3 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-03 20:30:10 --> Trying to get property 'ID_STATUS' of non-object
+#0 C:\xampp\htdocs\lifeq2\app\Controllers\Cpharris.php(60): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 60, Array)
+#1 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#2 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#3 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-03 20:36:31 --> Undefined variable: id_riwayat
+#0 C:\xampp\htdocs\lifeq2\app\Views\lifeq\Harris.php(110): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 110, Array)
+#1 C:\xampp\htdocs\lifeq2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\lifeq2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\lifeq2\system\Common.php(1089): CodeIgniter\View\View->render('lifeq/Harris', Array, true)
+#4 C:\xampp\htdocs\lifeq2\app\Controllers\Cpharris.php(77): view('lifeq/Harris', Array)
+#5 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#6 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#7 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\lifeq2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-07-03 20:45:01 --> Undefined variable: id_riwayat
+#0 C:\xampp\htdocs\lifeq2\app\Views\lifeq\Harris.php(110): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 110, Array)
+#1 C:\xampp\htdocs\lifeq2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\lifeq2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\lifeq2\system\Common.php(1089): CodeIgniter\View\View->render('lifeq/Harris', Array, true)
+#4 C:\xampp\htdocs\lifeq2\app\Controllers\Cpharris.php(77): view('lifeq/Harris', Array)
+#5 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#6 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#7 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\lifeq2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-07-03 20:46:47 --> Undefined property: App\Controllers\Cpharris::$riwayat
+#0 C:\xampp\htdocs\lifeq2\app\Controllers\Cpharris.php(95): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 95, Array)
+#1 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#2 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#3 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-03 20:47:38 --> Undefined property: App\Controllers\Cpharris::$riwayat
+#0 C:\xampp\htdocs\lifeq2\app\Controllers\Cpharris.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 96, Array)
+#1 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#2 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#3 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-07-03 20:48:39 --> Unknown column 'lemak' in 'field list'
+CRITICAL - 2022-07-03 20:48:39 --> Unknown column 'lemak' in 'field list'
+#0 C:\xampp\htdocs\lifeq2\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `ri...', 0)
+#1 C:\xampp\htdocs\lifeq2\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ri...')
+#2 C:\xampp\htdocs\lifeq2\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ri...')
+#3 C:\xampp\htdocs\lifeq2\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ri...', Array, false)
+#4 C:\xampp\htdocs\lifeq2\system\Model.php(239): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\lifeq2\system\BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\lifeq2\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\lifeq2\app\Controllers\Cpharris.php(97): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#9 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#10 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\lifeq2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+ERROR - 2022-07-03 20:50:09 --> Unknown column 'created_at' in 'field list'
+CRITICAL - 2022-07-03 20:50:09 --> Unknown column 'created_at' in 'field list'
+#0 C:\xampp\htdocs\lifeq2\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `ri...', 0)
+#1 C:\xampp\htdocs\lifeq2\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ri...')
+#2 C:\xampp\htdocs\lifeq2\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ri...')
+#3 C:\xampp\htdocs\lifeq2\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ri...', Array, false)
+#4 C:\xampp\htdocs\lifeq2\system\Model.php(239): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\lifeq2\system\BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\lifeq2\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\lifeq2\app\Controllers\Cpharris.php(97): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#9 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#10 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\lifeq2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2022-07-03 20:50:54 --> Undefined property: stdClass::$id_riwayat
+#0 C:\xampp\htdocs\lifeq2\app\Views\lifeq\Harris.php(110): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 110, Array)
+#1 C:\xampp\htdocs\lifeq2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\lifeq2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\lifeq2\system\Common.php(1089): CodeIgniter\View\View->render('lifeq/Harris', Array, true)
+#4 C:\xampp\htdocs\lifeq2\app\Controllers\Cpharris.php(102): view('lifeq/Harris', Array)
+#5 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#6 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#7 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\lifeq2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-07-03 20:57:22 --> Undefined property: stdClass::$id_riwayat
+#0 C:\xampp\htdocs\lifeq2\app\Views\lifeq\Harris.php(110): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 110, Array)
+#1 C:\xampp\htdocs\lifeq2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\lifeq2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\lifeq2\system\Common.php(1089): CodeIgniter\View\View->render('lifeq/Harris', Array, true)
+#4 C:\xampp\htdocs\lifeq2\app\Controllers\Cpharris.php(102): view('lifeq/Harris', Array)
+#5 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#6 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#7 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\lifeq2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-07-03 20:58:06 --> Undefined property: stdClass::$id_riwayat
+#0 C:\xampp\htdocs\lifeq2\app\Views\lifeq\Harris.php(110): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 110, Array)
+#1 C:\xampp\htdocs\lifeq2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\lifeq2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\lifeq2\system\Common.php(1089): CodeIgniter\View\View->render('lifeq/Harris', Array, true)
+#4 C:\xampp\htdocs\lifeq2\app\Controllers\Cpharris.php(102): view('lifeq/Harris', Array)
+#5 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#6 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#7 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\lifeq2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-07-03 21:18:40 --> Undefined property: stdClass::$id_riwayat
+#0 C:\xampp\htdocs\lifeq2\app\Views\lifeq\Harris.php(110): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 110, Array)
+#1 C:\xampp\htdocs\lifeq2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\lifeq2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\lifeq2\system\Common.php(1089): CodeIgniter\View\View->render('lifeq/Harris', Array, true)
+#4 C:\xampp\htdocs\lifeq2\app\Controllers\Cpharris.php(102): view('lifeq/Harris', Array)
+#5 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#6 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#7 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\lifeq2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-07-03 21:25:32 --> Undefined property: stdClass::$gbr_makanan
+#0 C:\xampp\htdocs\lifeq2\app\Views\lifeq\Saran.php(203): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 203, Array)
+#1 C:\xampp\htdocs\lifeq2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\lifeq2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\lifeq2\system\Common.php(1089): CodeIgniter\View\View->render('lifeq/Saran', Array, true)
+#4 C:\xampp\htdocs\lifeq2\app\Controllers\Csaran.php(64): view('lifeq/Saran', Array)
+#5 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(832): App\Controllers\Csaran->SaranM()
+#6 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Csaran))
+#7 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\lifeq2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-07-03 21:26:43 --> Undefined property: stdClass::$SATUAN_GARAM
+#0 C:\xampp\htdocs\lifeq2\app\Views\lifeq\Saran.php(216): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 216, Array)
+#1 C:\xampp\htdocs\lifeq2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\lifeq2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\lifeq2\system\Common.php(1089): CodeIgniter\View\View->render('lifeq/Saran', Array, true)
+#4 C:\xampp\htdocs\lifeq2\app\Controllers\Csaran.php(64): view('lifeq/Saran', Array)
+#5 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(832): App\Controllers\Csaran->SaranM()
+#6 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Csaran))
+#7 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\lifeq2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-07-03 21:27:10 --> Undefined property: stdClass::$gbr_makanan
+#0 C:\xampp\htdocs\lifeq2\app\Views\lifeq\Saran.php(229): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 229, Array)
+#1 C:\xampp\htdocs\lifeq2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\lifeq2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\lifeq2\system\Common.php(1089): CodeIgniter\View\View->render('lifeq/Saran', Array, true)
+#4 C:\xampp\htdocs\lifeq2\app\Controllers\Csaran.php(64): view('lifeq/Saran', Array)
+#5 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(832): App\Controllers\Csaran->SaranM()
+#6 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Csaran))
+#7 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\lifeq2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-07-03 21:27:39 --> Undefined property: stdClass::$id_riwayat
+#0 C:\xampp\htdocs\lifeq2\app\Views\lifeq\Riwayat.php(46): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 46, Array)
+#1 C:\xampp\htdocs\lifeq2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\lifeq2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\lifeq2\system\Common.php(1089): CodeIgniter\View\View->render('lifeq/Riwayat', Array, true)
+#4 C:\xampp\htdocs\lifeq2\app\Controllers\Criwayat.php(16): view('lifeq/Riwayat', Array)
+#5 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(832): App\Controllers\Criwayat->index()
+#6 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Criwayat))
+#7 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\lifeq2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-07-03 21:28:14 --> Undefined property: stdClass::$SATUAN_GARAM
+#0 C:\xampp\htdocs\lifeq2\app\Views\lifeq\RSaranMakanan.php(46): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 46, Array)
+#1 C:\xampp\htdocs\lifeq2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\lifeq2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\lifeq2\system\Common.php(1089): CodeIgniter\View\View->render('lifeq/RSaranMak...', Array, true)
+#4 C:\xampp\htdocs\lifeq2\app\Controllers\Criwayat.php(23): view('lifeq/RSaranMak...', Array)
+#5 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(832): App\Controllers\Criwayat->saran_makanan('0')
+#6 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Criwayat))
+#7 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\lifeq2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-07-03 21:28:25 --> Undefined property: stdClass::$gbr_makanan
+#0 C:\xampp\htdocs\lifeq2\app\Views\lifeq\RSaranMakanan.php(49): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 49, Array)
+#1 C:\xampp\htdocs\lifeq2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\lifeq2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\lifeq2\system\Common.php(1089): CodeIgniter\View\View->render('lifeq/RSaranMak...', Array, true)
+#4 C:\xampp\htdocs\lifeq2\app\Controllers\Criwayat.php(23): view('lifeq/RSaranMak...', Array)
+#5 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(832): App\Controllers\Criwayat->saran_makanan('0')
+#6 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Criwayat))
+#7 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\lifeq2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-07-03 21:28:27 --> Undefined property: stdClass::$gbr_makanan
+#0 C:\xampp\htdocs\lifeq2\app\Views\lifeq\RSaranMakanan.php(49): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 49, Array)
+#1 C:\xampp\htdocs\lifeq2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\lifeq2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\lifeq2\system\Common.php(1089): CodeIgniter\View\View->render('lifeq/RSaranMak...', Array, true)
+#4 C:\xampp\htdocs\lifeq2\app\Controllers\Criwayat.php(23): view('lifeq/RSaranMak...', Array)
+#5 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(832): App\Controllers\Criwayat->saran_makanan('0')
+#6 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Criwayat))
+#7 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\lifeq2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-07-03 21:28:37 --> Undefined property: stdClass::$gbr_makanan
+#0 C:\xampp\htdocs\lifeq2\app\Views\lifeq\RSaranMakanan.php(49): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 49, Array)
+#1 C:\xampp\htdocs\lifeq2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\lifeq2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\lifeq2\system\Common.php(1089): CodeIgniter\View\View->render('lifeq/RSaranMak...', Array, true)
+#4 C:\xampp\htdocs\lifeq2\app\Controllers\Criwayat.php(23): view('lifeq/RSaranMak...', Array)
+#5 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(832): App\Controllers\Criwayat->saran_makanan('0')
+#6 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Criwayat))
+#7 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\lifeq2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-07-03 21:56:44 --> Undefined variable: mkn
+#0 C:\xampp\htdocs\lifeq2\app\Views\lifeq\Saran.php(203): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 203, Array)
+#1 C:\xampp\htdocs\lifeq2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\lifeq2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\lifeq2\system\Common.php(1089): CodeIgniter\View\View->render('lifeq/Saran', Array, true)
+#4 C:\xampp\htdocs\lifeq2\app\Controllers\Csaran.php(65): view('lifeq/Saran', Array)
+#5 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(832): App\Controllers\Csaran->SaranM()
+#6 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Csaran))
+#7 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\lifeq2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-07-03 22:05:40 --> Undefined index: id_status
+#0 C:\xampp\htdocs\lifeq2\app\Controllers\Csaran.php(28): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 28, Array)
+#1 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(832): App\Controllers\Csaran->SaranM()
+#2 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Csaran))
+#3 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-03 23:30:30 --> Undefined index: id_status
+#0 C:\xampp\htdocs\lifeq2\app\Controllers\Csaran.php(28): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 28, Array)
+#1 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(832): App\Controllers\Csaran->SaranM()
+#2 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Csaran))
+#3 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-03 23:43:17 --> Undefined index: id_status
+#0 C:\xampp\htdocs\lifeq2\app\Controllers\Csaran.php(28): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 28, Array)
+#1 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(832): App\Controllers\Csaran->SaranM()
+#2 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Csaran))
+#3 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-03 23:44:54 --> Undefined property: stdClass::$gbr_makanan
+#0 C:\xampp\htdocs\lifeq2\app\Views\lifeq\Saran.php(116): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 116, Array)
+#1 C:\xampp\htdocs\lifeq2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\lifeq2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\lifeq2\system\Common.php(1089): CodeIgniter\View\View->render('lifeq/Saran', Array, true)
+#4 C:\xampp\htdocs\lifeq2\app\Controllers\Csaran.php(65): view('lifeq/Saran', Array)
+#5 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(832): App\Controllers\Csaran->SaranM()
+#6 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Csaran))
+#7 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\lifeq2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-07-03 23:58:50 --> Undefined index: id_status
+#0 C:\xampp\htdocs\lifeq2\app\Controllers\Csaran.php(28): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 28, Array)
+#1 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(832): App\Controllers\Csaran->SaranM()
+#2 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Csaran))
+#3 C:\xampp\htdocs\lifeq2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}

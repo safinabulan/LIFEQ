@@ -1,0 +1,11 @@
+CRITICAL - 2022-06-05 17:59:40 --> Undefined variable $mha
+#0 D:\wamp64\www\cobaCI\app\Views\mha\index.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'D:\\wamp64\\www\\c...', 12)
+#1 D:\wamp64\www\cobaCI\system\View\View.php(210): include('D:\\wamp64\\www\\c...')
+#2 D:\wamp64\www\cobaCI\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\wamp64\www\cobaCI\system\Common.php(1089): CodeIgniter\View\View->render('mha/index', Array, true)
+#4 D:\wamp64\www\cobaCI\app\Controllers\Mha.php(7): view('mha/index')
+#5 D:\wamp64\www\cobaCI\system\CodeIgniter.php(832): App\Controllers\Mha->index()
+#6 D:\wamp64\www\cobaCI\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mha))
+#7 D:\wamp64\www\cobaCI\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\wamp64\www\cobaCI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}

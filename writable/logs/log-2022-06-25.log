@@ -1,0 +1,1104 @@
+CRITICAL - 2022-06-25 00:27:22 --> Attempt to read property "ID_AKTIVITAS" on array
+#0 C:\xampp\htdocs\lifeq\app\Controllers\Caktivitas.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read...', 'C:\\xampp\\htdocs...', 24)
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Caktivitas->Harris()
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Caktivitas))
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-25 00:28:13 --> Attempt to read property "ID_AKTIVITAS" on array
+#0 C:\xampp\htdocs\lifeq\app\Controllers\Caktivitas.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read...', 'C:\\xampp\\htdocs...', 24)
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Caktivitas->Harris()
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Caktivitas))
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-25 00:28:27 --> Attempt to read property "ID_AKTIVITAS" on array
+#0 C:\xampp\htdocs\lifeq\app\Controllers\Caktivitas.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read...', 'C:\\xampp\\htdocs...', 24)
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Caktivitas->Harris()
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Caktivitas))
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-25 00:29:52 --> Attempt to read property "ID_AKTIVITAS" on array
+#0 C:\xampp\htdocs\lifeq\app\Controllers\Caktivitas.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read...', 'C:\\xampp\\htdocs...', 23)
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Caktivitas->Harris()
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Caktivitas))
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-25 00:32:12 --> Attempt to read property "ID_AKTIVITAS" on array
+#0 C:\xampp\htdocs\lifeq\app\Controllers\Caktivitas.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read...', 'C:\\xampp\\htdocs...', 23)
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Caktivitas->Harris()
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Caktivitas))
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-25 00:32:26 --> Attempt to read property "ID_AKTIVITAS" on array
+#0 C:\xampp\htdocs\lifeq\app\Controllers\Caktivitas.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read...', 'C:\\xampp\\htdocs...', 23)
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Caktivitas->Harris()
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Caktivitas))
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-25 01:03:54 --> Undefined variable $akti
+#0 C:\xampp\htdocs\lifeq\app\Views\lifeq\Harris.php(182): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 182)
+#1 C:\xampp\htdocs\lifeq\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\lifeq\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\lifeq\system\Common.php(1089): CodeIgniter\View\View->render('lifeq/Harris', Array, true)
+#4 C:\xampp\htdocs\lifeq\app\Controllers\Cpharris.php(49): view('lifeq/Harris', Array)
+#5 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#6 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#7 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-25 01:04:35 --> Undefined variable $akti
+#0 C:\xampp\htdocs\lifeq\app\Views\lifeq\Harris.php(180): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 180)
+#1 C:\xampp\htdocs\lifeq\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\lifeq\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\lifeq\system\Common.php(1089): CodeIgniter\View\View->render('lifeq/Harris', Array, true)
+#4 C:\xampp\htdocs\lifeq\app\Controllers\Cpharris.php(49): view('lifeq/Harris', Array)
+#5 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#6 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#7 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-25 01:09:23 --> Undefined variable $akti
+#0 C:\xampp\htdocs\lifeq\app\Views\lifeq\Harris.php(180): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 180)
+#1 C:\xampp\htdocs\lifeq\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\lifeq\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\lifeq\system\Common.php(1089): CodeIgniter\View\View->render('lifeq/Harris', Array, true)
+#4 C:\xampp\htdocs\lifeq\app\Controllers\Cpharris.php(49): view('lifeq/Harris', Array)
+#5 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#6 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#7 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2022-06-25 04:01:32 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '>' at line 1
+CRITICAL - 2022-06-25 04:01:32 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '>' at line 1
+#0 C:\xampp\htdocs\lifeq\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT NAMA_KEG...', 0)
+#1 C:\xampp\htdocs\lifeq\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT NAMA_KEG...')
+#2 C:\xampp\htdocs\lifeq\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT NAMA_KEG...')
+#3 C:\xampp\htdocs\lifeq\system\Model.php(726): CodeIgniter\Database\BaseConnection->query('SELECT NAMA_KEG...')
+#4 C:\xampp\htdocs\lifeq\app\Controllers\Cpharris.php(21): CodeIgniter\Model->__call('query', Array)
+#5 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#6 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#7 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-25 04:03:09 --> syntax error, unexpected identifier "NAMA_KEGITAN", expecting ")"
+#0 C:\xampp\htdocs\lifeq\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('Cpharris/AKE')
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('Cpharris/AKE')
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-25 04:03:31 --> syntax error, unexpected identifier "NAMA_KEGIATAN", expecting ")"
+#0 C:\xampp\htdocs\lifeq\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('Cpharris/AKE')
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('Cpharris/AKE')
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-06-25 04:03:41 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '>' at line 1
+CRITICAL - 2022-06-25 04:03:41 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '>' at line 1
+#0 C:\xampp\htdocs\lifeq\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT NAMA_KEG...', 0)
+#1 C:\xampp\htdocs\lifeq\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT NAMA_KEG...')
+#2 C:\xampp\htdocs\lifeq\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT NAMA_KEG...')
+#3 C:\xampp\htdocs\lifeq\system\Model.php(726): CodeIgniter\Database\BaseConnection->query('SELECT NAMA_KEG...')
+#4 C:\xampp\htdocs\lifeq\app\Controllers\Cpharris.php(21): CodeIgniter\Model->__call('query', Array)
+#5 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#6 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#7 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2022-06-25 04:05:47 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '['NAMA_KEGIATAN'=>])' at line 1
+CRITICAL - 2022-06-25 04:05:47 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '['NAMA_KEGIATAN'=>])' at line 1
+#0 C:\xampp\htdocs\lifeq\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT * FROM a...', 0)
+#1 C:\xampp\htdocs\lifeq\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT * FROM a...')
+#2 C:\xampp\htdocs\lifeq\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * FROM a...')
+#3 C:\xampp\htdocs\lifeq\system\Model.php(726): CodeIgniter\Database\BaseConnection->query('SELECT * FROM a...')
+#4 C:\xampp\htdocs\lifeq\app\Controllers\Cpharris.php(21): CodeIgniter\Model->__call('query', Array)
+#5 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#6 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#7 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2022-06-25 04:05:48 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '['NAMA_KEGIATAN'=>])' at line 1
+CRITICAL - 2022-06-25 04:05:48 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '['NAMA_KEGIATAN'=>])' at line 1
+#0 C:\xampp\htdocs\lifeq\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT * FROM a...', 0)
+#1 C:\xampp\htdocs\lifeq\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT * FROM a...')
+#2 C:\xampp\htdocs\lifeq\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * FROM a...')
+#3 C:\xampp\htdocs\lifeq\system\Model.php(726): CodeIgniter\Database\BaseConnection->query('SELECT * FROM a...')
+#4 C:\xampp\htdocs\lifeq\app\Controllers\Cpharris.php(21): CodeIgniter\Model->__call('query', Array)
+#5 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#6 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#7 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2022-06-25 04:05:49 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '['NAMA_KEGIATAN'=>])' at line 1
+CRITICAL - 2022-06-25 04:05:49 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '['NAMA_KEGIATAN'=>])' at line 1
+#0 C:\xampp\htdocs\lifeq\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT * FROM a...', 0)
+#1 C:\xampp\htdocs\lifeq\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT * FROM a...')
+#2 C:\xampp\htdocs\lifeq\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * FROM a...')
+#3 C:\xampp\htdocs\lifeq\system\Model.php(726): CodeIgniter\Database\BaseConnection->query('SELECT * FROM a...')
+#4 C:\xampp\htdocs\lifeq\app\Controllers\Cpharris.php(21): CodeIgniter\Model->__call('query', Array)
+#5 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#6 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#7 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2022-06-25 04:05:51 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '['NAMA_KEGIATAN'=>])' at line 1
+CRITICAL - 2022-06-25 04:05:51 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '['NAMA_KEGIATAN'=>])' at line 1
+#0 C:\xampp\htdocs\lifeq\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT * FROM a...', 0)
+#1 C:\xampp\htdocs\lifeq\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT * FROM a...')
+#2 C:\xampp\htdocs\lifeq\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * FROM a...')
+#3 C:\xampp\htdocs\lifeq\system\Model.php(726): CodeIgniter\Database\BaseConnection->query('SELECT * FROM a...')
+#4 C:\xampp\htdocs\lifeq\app\Controllers\Cpharris.php(21): CodeIgniter\Model->__call('query', Array)
+#5 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#6 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#7 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-25 04:09:59 --> syntax error, unexpected token "\"
+#0 C:\xampp\htdocs\lifeq\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('Cpharris/AKE')
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('Cpharris/AKE')
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-25 04:10:05 --> Undefined variable $akti
+#0 C:\xampp\htdocs\lifeq\app\Controllers\Cpharris.php(22): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 22)
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-25 04:11:51 --> syntax error, unexpected token "\"
+#0 C:\xampp\htdocs\lifeq\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('Cpharris/AKE')
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('Cpharris/AKE')
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-25 04:11:56 --> Unsupported operand types: null + string
+#0 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-25 04:12:44 --> Undefined variable $pil
+#0 C:\xampp\htdocs\lifeq\app\Controllers\Cpharris.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 21)
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-25 04:12:57 --> Unsupported operand types: null + string
+#0 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-25 04:14:47 --> Unsupported operand types: null + string
+#0 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-25 04:16:26 --> Unsupported operand types: null + string
+#0 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-25 04:20:21 --> Unsupported operand types: null + string
+#0 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-25 04:37:08 --> Unsupported operand types: null + string
+#0 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-25 04:37:18 --> Unsupported operand types: null + string
+#0 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-25 04:52:59 --> Undefined variable $pilihan
+#0 C:\xampp\htdocs\lifeq\app\Controllers\Cpharris.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 23)
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-25 04:53:06 --> Unsupported operand types: null + string
+#0 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-25 10:32:20 --> Call to undefined method CodeIgniter\HTTP\IncomingRequest::post()
+#0 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-25 10:32:33 --> Call to undefined method CodeIgniter\HTTP\IncomingRequest::post()
+#0 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-25 10:33:03 --> Undefined property: App\Controllers\Cpharris::$input
+#0 C:\xampp\htdocs\lifeq\app\Controllers\Cpharris.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 21)
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-25 11:09:51 --> Undefined property: App\Controllers\Cpharris::$input
+#0 C:\xampp\htdocs\lifeq\app\Controllers\Cpharris.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 21)
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-25 11:09:56 --> Undefined property: App\Controllers\Cpharris::$input
+#0 C:\xampp\htdocs\lifeq\app\Controllers\Cpharris.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 21)
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-25 12:41:53 --> Call to a member function result() on array
+#0 C:\xampp\htdocs\lifeq\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\lifeq\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\lifeq\system\Common.php(1089): CodeIgniter\View\View->render('lifeq/Akti', Array, true)
+#3 C:\xampp\htdocs\lifeq\app\Controllers\Caktivitas.php(16): view('lifeq/Akti', Array)
+#4 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Caktivitas->Akti()
+#5 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Caktivitas))
+#6 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-06-25 12:41:57 --> Call to a member function result() on array
+#0 C:\xampp\htdocs\lifeq\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\lifeq\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\lifeq\system\Common.php(1089): CodeIgniter\View\View->render('lifeq/Akti', Array, true)
+#3 C:\xampp\htdocs\lifeq\app\Controllers\Caktivitas.php(16): view('lifeq/Akti', Array)
+#4 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Caktivitas->Akti()
+#5 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Caktivitas))
+#6 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-06-25 12:44:27 --> Call to undefined method App\Models\M_Aktivitas::post
+#0 C:\xampp\htdocs\lifeq\app\Controllers\Cpharris.php(29): CodeIgniter\Model->__call('post', Array)
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-25 12:44:41 --> Undefined property: App\Controllers\Cpharris::$input
+#0 C:\xampp\htdocs\lifeq\app\Controllers\Cpharris.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 29)
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-25 12:48:11 --> Unsupported operand types: null + string
+#0 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-25 12:48:19 --> Unsupported operand types: null + string
+#0 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-25 12:49:51 --> Unsupported operand types: null + string
+#0 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-25 12:49:55 --> Unsupported operand types: string + string
+#0 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-25 13:01:10 --> syntax error, unexpected identifier "ID_AKTIVITAS"
+#0 C:\xampp\htdocs\lifeq\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('Cpharris/AKE')
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('Cpharris/AKE')
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-06-25 13:02:58 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '> duduk dan berdiri' at line 1
+CRITICAL - 2022-06-25 13:02:58 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '> duduk dan berdiri' at line 1
+#0 C:\xampp\htdocs\lifeq\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT ID_AKTIV...', 0)
+#1 C:\xampp\htdocs\lifeq\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT ID_AKTIV...')
+#2 C:\xampp\htdocs\lifeq\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT ID_AKTIV...')
+#3 C:\xampp\htdocs\lifeq\system\Model.php(726): CodeIgniter\Database\BaseConnection->query('SELECT ID_AKTIV...')
+#4 C:\xampp\htdocs\lifeq\app\Controllers\Cpharris.php(49): CodeIgniter\Model->__call('query', Array)
+#5 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#6 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#7 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-25 13:04:51 --> syntax error, unexpected token "(", expecting identifier or variable or "{" or "$"
+#0 C:\xampp\htdocs\lifeq\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('Cpharris/AKE')
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('Cpharris/AKE')
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-06-25 13:06:00 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '> duduk dan berdiri' at line 1
+CRITICAL - 2022-06-25 13:06:00 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '> duduk dan berdiri' at line 1
+#0 C:\xampp\htdocs\lifeq\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT ID_AKTIV...', 0)
+#1 C:\xampp\htdocs\lifeq\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT ID_AKTIV...')
+#2 C:\xampp\htdocs\lifeq\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT ID_AKTIV...')
+#3 C:\xampp\htdocs\lifeq\system\Model.php(726): CodeIgniter\Database\BaseConnection->query('SELECT ID_AKTIV...')
+#4 C:\xampp\htdocs\lifeq\app\Controllers\Cpharris.php(49): CodeIgniter\Model->__call('query', Array)
+#5 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#6 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#7 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2022-06-25 13:06:57 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '> duduk dan berdiri' at line 1
+CRITICAL - 2022-06-25 13:06:57 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '> duduk dan berdiri' at line 1
+#0 C:\xampp\htdocs\lifeq\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT ID_AKTIV...', 0)
+#1 C:\xampp\htdocs\lifeq\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT ID_AKTIV...')
+#2 C:\xampp\htdocs\lifeq\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT ID_AKTIV...')
+#3 C:\xampp\htdocs\lifeq\system\Model.php(726): CodeIgniter\Database\BaseConnection->query('SELECT ID_AKTIV...')
+#4 C:\xampp\htdocs\lifeq\app\Controllers\Cpharris.php(51): CodeIgniter\Model->__call('query', Array)
+#5 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#6 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#7 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2022-06-25 13:06:57 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '> duduk dan berdiri' at line 1
+CRITICAL - 2022-06-25 13:06:57 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '> duduk dan berdiri' at line 1
+#0 C:\xampp\htdocs\lifeq\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT ID_AKTIV...', 0)
+#1 C:\xampp\htdocs\lifeq\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT ID_AKTIV...')
+#2 C:\xampp\htdocs\lifeq\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT ID_AKTIV...')
+#3 C:\xampp\htdocs\lifeq\system\Model.php(726): CodeIgniter\Database\BaseConnection->query('SELECT ID_AKTIV...')
+#4 C:\xampp\htdocs\lifeq\app\Controllers\Cpharris.php(51): CodeIgniter\Model->__call('query', Array)
+#5 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#6 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#7 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2022-06-25 13:07:02 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '> bermain kartu' at line 1
+CRITICAL - 2022-06-25 13:07:02 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '> bermain kartu' at line 1
+#0 C:\xampp\htdocs\lifeq\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT ID_AKTIV...', 0)
+#1 C:\xampp\htdocs\lifeq\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT ID_AKTIV...')
+#2 C:\xampp\htdocs\lifeq\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT ID_AKTIV...')
+#3 C:\xampp\htdocs\lifeq\system\Model.php(726): CodeIgniter\Database\BaseConnection->query('SELECT ID_AKTIV...')
+#4 C:\xampp\htdocs\lifeq\app\Controllers\Cpharris.php(51): CodeIgniter\Model->__call('query', Array)
+#5 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#6 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#7 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2022-06-25 13:10:53 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '> duduk dan berdiri' at line 1
+CRITICAL - 2022-06-25 13:10:53 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '> duduk dan berdiri' at line 1
+#0 C:\xampp\htdocs\lifeq\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT ID_AKTIV...', 0)
+#1 C:\xampp\htdocs\lifeq\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT ID_AKTIV...')
+#2 C:\xampp\htdocs\lifeq\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT ID_AKTIV...')
+#3 C:\xampp\htdocs\lifeq\system\Model.php(726): CodeIgniter\Database\BaseConnection->query('SELECT ID_AKTIV...')
+#4 C:\xampp\htdocs\lifeq\app\Controllers\Cpharris.php(49): CodeIgniter\Model->__call('query', Array)
+#5 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#6 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#7 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-25 13:11:39 --> Call to undefined function App\Controllers\query()
+#0 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2022-06-25 13:11:46 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '> duduk dan berdiri' at line 1
+CRITICAL - 2022-06-25 13:11:46 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '> duduk dan berdiri' at line 1
+#0 C:\xampp\htdocs\lifeq\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT ID_AKTIV...', 0)
+#1 C:\xampp\htdocs\lifeq\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT ID_AKTIV...')
+#2 C:\xampp\htdocs\lifeq\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT ID_AKTIV...')
+#3 C:\xampp\htdocs\lifeq\system\Model.php(726): CodeIgniter\Database\BaseConnection->query('SELECT ID_AKTIV...')
+#4 C:\xampp\htdocs\lifeq\app\Controllers\Cpharris.php(49): CodeIgniter\Model->__call('query', Array)
+#5 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#6 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#7 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2022-06-25 13:12:35 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '> duduk dan berdiri' at line 1
+CRITICAL - 2022-06-25 13:12:35 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '> duduk dan berdiri' at line 1
+#0 C:\xampp\htdocs\lifeq\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT ID_AKTIV...', 0)
+#1 C:\xampp\htdocs\lifeq\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT ID_AKTIV...')
+#2 C:\xampp\htdocs\lifeq\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT ID_AKTIV...')
+#3 C:\xampp\htdocs\lifeq\system\Model.php(726): CodeIgniter\Database\BaseConnection->query('SELECT ID_AKTIV...')
+#4 C:\xampp\htdocs\lifeq\app\Controllers\Cpharris.php(49): CodeIgniter\Model->__call('query', Array)
+#5 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#6 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#7 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2022-06-25 13:12:38 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '> duduk dan berdiri' at line 1
+CRITICAL - 2022-06-25 13:12:38 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '> duduk dan berdiri' at line 1
+#0 C:\xampp\htdocs\lifeq\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT ID_AKTIV...', 0)
+#1 C:\xampp\htdocs\lifeq\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT ID_AKTIV...')
+#2 C:\xampp\htdocs\lifeq\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT ID_AKTIV...')
+#3 C:\xampp\htdocs\lifeq\system\Model.php(726): CodeIgniter\Database\BaseConnection->query('SELECT ID_AKTIV...')
+#4 C:\xampp\htdocs\lifeq\app\Controllers\Cpharris.php(49): CodeIgniter\Model->__call('query', Array)
+#5 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#6 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#7 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2022-06-25 13:12:48 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '> 'duduk dan berdiri'' at line 1
+CRITICAL - 2022-06-25 13:12:48 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '> 'duduk dan berdiri'' at line 1
+#0 C:\xampp\htdocs\lifeq\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT ID_AKTIV...', 0)
+#1 C:\xampp\htdocs\lifeq\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT ID_AKTIV...')
+#2 C:\xampp\htdocs\lifeq\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT ID_AKTIV...')
+#3 C:\xampp\htdocs\lifeq\system\Model.php(726): CodeIgniter\Database\BaseConnection->query('SELECT ID_AKTIV...')
+#4 C:\xampp\htdocs\lifeq\app\Controllers\Cpharris.php(49): CodeIgniter\Model->__call('query', Array)
+#5 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#6 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#7 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2022-06-25 13:12:52 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '> 'duduk dan berdiri'' at line 1
+CRITICAL - 2022-06-25 13:12:52 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '> 'duduk dan berdiri'' at line 1
+#0 C:\xampp\htdocs\lifeq\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT ID_AKTIV...', 0)
+#1 C:\xampp\htdocs\lifeq\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT ID_AKTIV...')
+#2 C:\xampp\htdocs\lifeq\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT ID_AKTIV...')
+#3 C:\xampp\htdocs\lifeq\system\Model.php(726): CodeIgniter\Database\BaseConnection->query('SELECT ID_AKTIV...')
+#4 C:\xampp\htdocs\lifeq\app\Controllers\Cpharris.php(49): CodeIgniter\Model->__call('query', Array)
+#5 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#6 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#7 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2022-06-25 13:14:02 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'dan berdiri' at line 1
+CRITICAL - 2022-06-25 13:14:02 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'dan berdiri' at line 1
+#0 C:\xampp\htdocs\lifeq\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT ID_AKTIV...', 0)
+#1 C:\xampp\htdocs\lifeq\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT ID_AKTIV...')
+#2 C:\xampp\htdocs\lifeq\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT ID_AKTIV...')
+#3 C:\xampp\htdocs\lifeq\system\Model.php(726): CodeIgniter\Database\BaseConnection->query('SELECT ID_AKTIV...')
+#4 C:\xampp\htdocs\lifeq\app\Controllers\Cpharris.php(49): CodeIgniter\Model->__call('query', Array)
+#5 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#6 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#7 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2022-06-25 13:14:12 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'dan berdiri' at line 1
+CRITICAL - 2022-06-25 13:14:12 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'dan berdiri' at line 1
+#0 C:\xampp\htdocs\lifeq\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT ID_AKTIV...', 0)
+#1 C:\xampp\htdocs\lifeq\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT ID_AKTIV...')
+#2 C:\xampp\htdocs\lifeq\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT ID_AKTIV...')
+#3 C:\xampp\htdocs\lifeq\system\Model.php(726): CodeIgniter\Database\BaseConnection->query('SELECT ID_AKTIV...')
+#4 C:\xampp\htdocs\lifeq\app\Controllers\Cpharris.php(49): CodeIgniter\Model->__call('query', Array)
+#5 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#6 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#7 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2022-06-25 13:14:18 --> Unknown column 'melukis' in 'where clause'
+CRITICAL - 2022-06-25 13:14:18 --> Unknown column 'melukis' in 'where clause'
+#0 C:\xampp\htdocs\lifeq\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT ID_AKTIV...', 0)
+#1 C:\xampp\htdocs\lifeq\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT ID_AKTIV...')
+#2 C:\xampp\htdocs\lifeq\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT ID_AKTIV...')
+#3 C:\xampp\htdocs\lifeq\system\Model.php(726): CodeIgniter\Database\BaseConnection->query('SELECT ID_AKTIV...')
+#4 C:\xampp\htdocs\lifeq\app\Controllers\Cpharris.php(49): CodeIgniter\Model->__call('query', Array)
+#5 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#6 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#7 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-25 13:14:37 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::first()
+#0 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-25 13:15:14 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::first()
+#0 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-25 13:15:19 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::first()
+#0 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-25 13:17:06 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::first()
+#0 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-25 13:18:17 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::first()
+#0 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-25 13:21:31 --> Call to undefined method App\Models\M_Aktivitas::get_where
+#0 C:\xampp\htdocs\lifeq\app\Controllers\Cpharris.php(49): CodeIgniter\Model->__call('get_where', Array)
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-06-25 13:24:01 --> Unknown column 'NMA_KEGIATAN' in 'where clause'
+CRITICAL - 2022-06-25 13:24:01 --> Unknown column 'NMA_KEGIATAN' in 'where clause'
+#0 C:\xampp\htdocs\lifeq\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `ID_AKTI...', 0)
+#1 C:\xampp\htdocs\lifeq\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `ID_AKTI...')
+#2 C:\xampp\htdocs\lifeq\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `ID_AKTI...')
+#3 C:\xampp\htdocs\lifeq\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT `ID_AKTI...', Array, false)
+#4 C:\xampp\htdocs\lifeq\system\Model.php(728): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\lifeq\app\Controllers\Cpharris.php(51): CodeIgniter\Model->__call('get', Array)
+#6 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#7 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#8 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2022-06-25 13:24:06 --> Unknown column 'NMA_KEGIATAN' in 'where clause'
+CRITICAL - 2022-06-25 13:24:06 --> Unknown column 'NMA_KEGIATAN' in 'where clause'
+#0 C:\xampp\htdocs\lifeq\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `ID_AKTI...', 0)
+#1 C:\xampp\htdocs\lifeq\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `ID_AKTI...')
+#2 C:\xampp\htdocs\lifeq\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `ID_AKTI...')
+#3 C:\xampp\htdocs\lifeq\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT `ID_AKTI...', Array, false)
+#4 C:\xampp\htdocs\lifeq\system\Model.php(728): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\lifeq\app\Controllers\Cpharris.php(51): CodeIgniter\Model->__call('get', Array)
+#6 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#7 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#8 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-06-25 13:28:35 --> Undefined variable $akti
+#0 C:\xampp\htdocs\lifeq\app\Controllers\Cpharris.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 48)
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-25 13:28:43 --> Undefined variable $akti
+#0 C:\xampp\htdocs\lifeq\app\Controllers\Cpharris.php(51): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 51)
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-25 13:28:44 --> Undefined variable $akti
+#0 C:\xampp\htdocs\lifeq\app\Controllers\Cpharris.php(51): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 51)
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-25 13:30:06 --> Call to a member function select() on array
+#0 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-25 13:31:16 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::first()
+#0 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-25 13:31:17 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::first()
+#0 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-25 13:31:25 --> Call to undefined method stdClass::select()
+#0 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-25 13:34:18 --> Call to a member function select() on array
+#0 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-25 13:37:49 --> CodeIgniter\Database\BaseBuilder::getWhere(): Argument #2 ($limit) must be of type ?int, string given, called in C:\xampp\htdocs\lifeq\system\Model.php on line 728
+#0 C:\xampp\htdocs\lifeq\system\Model.php(728): CodeIgniter\Database\BaseBuilder->getWhere('KATEGORI_KEGIAT...', 'NAMA_KEGIATAN', 'menyetir mobil')
+#1 C:\xampp\htdocs\lifeq\app\Controllers\Cpharris.php(55): CodeIgniter\Model->__call('getwhere', Array)
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#4 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-25 13:38:34 --> CodeIgniter\Database\BaseBuilder::getWhere(): Argument #2 ($limit) must be of type ?int, string given, called in C:\xampp\htdocs\lifeq\system\Model.php on line 728
+#0 C:\xampp\htdocs\lifeq\system\Model.php(728): CodeIgniter\Database\BaseBuilder->getWhere('NAMA_KEGIATAN', 'menyetir mobil')
+#1 C:\xampp\htdocs\lifeq\app\Controllers\Cpharris.php(55): CodeIgniter\Model->__call('getwhere', Array)
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#4 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-25 13:38:35 --> CodeIgniter\Database\BaseBuilder::getWhere(): Argument #2 ($limit) must be of type ?int, string given, called in C:\xampp\htdocs\lifeq\system\Model.php on line 728
+#0 C:\xampp\htdocs\lifeq\system\Model.php(728): CodeIgniter\Database\BaseBuilder->getWhere('NAMA_KEGIATAN', 'menyetir mobil')
+#1 C:\xampp\htdocs\lifeq\app\Controllers\Cpharris.php(55): CodeIgniter\Model->__call('getwhere', Array)
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#4 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-25 13:38:36 --> CodeIgniter\Database\BaseBuilder::getWhere(): Argument #2 ($limit) must be of type ?int, string given, called in C:\xampp\htdocs\lifeq\system\Model.php on line 728
+#0 C:\xampp\htdocs\lifeq\system\Model.php(728): CodeIgniter\Database\BaseBuilder->getWhere('NAMA_KEGIATAN', 'menyetir mobil')
+#1 C:\xampp\htdocs\lifeq\app\Controllers\Cpharris.php(55): CodeIgniter\Model->__call('getwhere', Array)
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#4 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-25 13:39:12 --> Call to a member function select() on array
+#0 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-25 13:44:18 --> Undefined array key "akti"
+#0 C:\xampp\htdocs\lifeq\app\Controllers\Cpharris.php(52): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 52)
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-25 13:44:28 --> Call to a member function select() on array
+#0 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-25 13:44:28 --> Call to a member function select() on array
+#0 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-25 13:44:29 --> Call to a member function select() on array
+#0 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-25 13:45:09 --> Undefined variable $builder
+#0 C:\xampp\htdocs\lifeq\app\Controllers\Cpharris.php(53): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 53)
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-25 13:45:10 --> Undefined variable $builder
+#0 C:\xampp\htdocs\lifeq\app\Controllers\Cpharris.php(53): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 53)
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-25 13:45:21 --> Call to a member function select() on array
+#0 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-25 13:46:07 --> Call to a member function select() on array
+#0 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-25 13:46:08 --> Call to a member function select() on array
+#0 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-25 13:46:11 --> Call to a member function select() on array
+#0 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-25 13:46:49 --> Call to a member function select() on array
+#0 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-25 13:48:00 --> Call to a member function select() on array
+#0 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-25 13:48:21 --> Call to a member function select() on array
+#0 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-25 13:51:41 --> Call to a member function get_where() on array
+#0 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-25 13:51:42 --> Call to a member function get_where() on array
+#0 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-25 13:51:44 --> Call to a member function get_where() on array
+#0 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-25 13:52:52 --> Call to a member function query() on array
+#0 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-25 13:53:10 --> Call to a member function query() on array
+#0 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-25 13:53:11 --> Call to a member function query() on array
+#0 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-25 14:00:02 --> Undefined array key "Nkategori"
+#0 C:\xampp\htdocs\lifeq\app\Controllers\Cpharris.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 59)
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-25 14:00:03 --> Undefined array key "Nkategori"
+#0 C:\xampp\htdocs\lifeq\app\Controllers\Cpharris.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 59)
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-25 14:00:04 --> Undefined array key "Nkategori"
+#0 C:\xampp\htdocs\lifeq\app\Controllers\Cpharris.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 59)
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-25 14:00:05 --> Undefined array key "Nkategori"
+#0 C:\xampp\htdocs\lifeq\app\Controllers\Cpharris.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 59)
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-25 14:00:06 --> Undefined array key "Nkategori"
+#0 C:\xampp\htdocs\lifeq\app\Controllers\Cpharris.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 59)
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-25 14:02:23 --> You must set the database table to be used with your query.
+#0 C:\xampp\htdocs\lifeq\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\xampp\htdocs\lifeq\system\Model.php(722): CodeIgniter\Model->builder()
+#2 C:\xampp\htdocs\lifeq\app\Controllers\Cpharris.php(53): CodeIgniter\Model->__call('AKEKarbo', Array)
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#4 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#5 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-25 14:02:28 --> You must set the database table to be used with your query.
+#0 C:\xampp\htdocs\lifeq\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\xampp\htdocs\lifeq\system\Model.php(722): CodeIgniter\Model->builder()
+#2 C:\xampp\htdocs\lifeq\app\Controllers\Cpharris.php(53): CodeIgniter\Model->__call('AKEKarbo', Array)
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#4 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#5 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-25 14:02:28 --> You must set the database table to be used with your query.
+#0 C:\xampp\htdocs\lifeq\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\xampp\htdocs\lifeq\system\Model.php(722): CodeIgniter\Model->builder()
+#2 C:\xampp\htdocs\lifeq\app\Controllers\Cpharris.php(53): CodeIgniter\Model->__call('AKEKarbo', Array)
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#4 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#5 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-25 14:09:19 --> syntax error, unexpected token "*"
+#0 C:\xampp\htdocs\lifeq\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\lifeq\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\M_Pe...')
+#2 C:\xampp\htdocs\lifeq\app\Controllers\Cpharris.php(14): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\M_Pe...')
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(809): App\Controllers\Cpharris->__construct()
+#4 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#5 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-25 14:10:20 --> Unsupported operand types: string + string
+#0 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-25 14:10:48 --> Unsupported operand types: string + string
+#0 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-25 14:21:43 --> Undefined variable $Nkategori
+#0 C:\xampp\htdocs\lifeq\app\Controllers\Cpharris.php(52): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 52)
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-25 14:23:02 --> Undefined variable $hasilKalSem
+#0 C:\xampp\htdocs\lifeq\app\Controllers\Cpharris.php(54): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 54)
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-25 14:25:35 --> Call to undefined method App\Models\M_Aktivitas::AKE
+#0 C:\xampp\htdocs\lifeq\app\Controllers\Cpharris.php(58): CodeIgniter\Model->__call('AKE', Array)
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-25 14:26:01 --> Call to undefined method App\Models\M_Aktivitas::AKE
+#0 C:\xampp\htdocs\lifeq\app\Controllers\Cpharris.php(58): CodeIgniter\Model->__call('AKE', Array)
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-25 14:26:02 --> Call to undefined method App\Models\M_Aktivitas::AKE
+#0 C:\xampp\htdocs\lifeq\app\Controllers\Cpharris.php(58): CodeIgniter\Model->__call('AKE', Array)
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-25 14:26:40 --> Undefined variable $akti
+#0 C:\xampp\htdocs\lifeq\app\Controllers\Cpharris.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 48)
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-25 14:26:41 --> Undefined variable $akti
+#0 C:\xampp\htdocs\lifeq\app\Controllers\Cpharris.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 48)
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-25 14:27:20 --> Call to undefined method App\Models\M_Aktivitas::AKE
+#0 C:\xampp\htdocs\lifeq\app\Controllers\Cpharris.php(58): CodeIgniter\Model->__call('AKE', Array)
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-25 14:27:33 --> Undefined array key "hasilAKE"
+#0 C:\xampp\htdocs\lifeq\app\Controllers\Cpharris.php(62): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 62)
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-25 14:28:36 --> Call to undefined method App\Models\M_Aktivitas::AKE
+#0 C:\xampp\htdocs\lifeq\app\Controllers\Cpharris.php(59): CodeIgniter\Model->__call('AKE', Array)
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-25 14:29:35 --> Call to undefined method App\Models\M_Aktivitas::AKEKarbo
+#0 C:\xampp\htdocs\lifeq\app\Controllers\Cpharris.php(54): CodeIgniter\Model->__call('AKEKarbo', Array)
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-25 14:31:38 --> Unsupported operand types: string + string
+#0 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-25 14:36:23 --> 'break' not in the 'loop' or 'switch' context
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-06-25 14:36:23 --> 'break' not in the 'loop' or 'switch' context
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-06-25 14:39:42 --> Undefined array key "hasilAKE"
+#0 C:\xampp\htdocs\lifeq\app\Controllers\Cpharris.php(66): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 66)
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-25 14:40:32 --> Call to undefined method App\Models\M_Aktivitas::getResult
+#0 C:\xampp\htdocs\lifeq\app\Controllers\Cpharris.php(51): CodeIgniter\Model->__call('getResult', Array)
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-25 14:54:56 --> Unsupported operand types: string * float
+#0 C:\xampp\htdocs\lifeq\app\Controllers\Cpharris.php(41): App\Models\M_Perhitungan_Harris->AKEKarbo('')
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-25 14:56:49 --> Unsupported operand types: string * float
+#0 C:\xampp\htdocs\lifeq\app\Controllers\Cpharris.php(41): App\Models\M_Perhitungan_Harris->AKEKarbo('')
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-25 14:57:08 --> Unsupported operand types: string * float
+#0 C:\xampp\htdocs\lifeq\app\Controllers\Cpharris.php(42): App\Models\M_Perhitungan_Harris->AKELemak('')
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-25 14:57:14 --> Unsupported operand types: string * float
+#0 C:\xampp\htdocs\lifeq\app\Controllers\Cpharris.php(41): App\Models\M_Perhitungan_Harris->AKEKarbo('')
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-25 14:58:31 --> Unsupported operand types: float * string
+#0 C:\xampp\htdocs\lifeq\app\Controllers\Cpharris.php(41): App\Models\M_Perhitungan_Harris->AKEKarbo(1346.35, '')
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-25 15:02:59 --> Unsupported operand types: string * float
+#0 C:\xampp\htdocs\lifeq\app\Controllers\Cpharris.php(41): App\Models\M_Perhitungan_Harris->AKEKarbo('')
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-25 15:08:06 --> Array to string conversion
+#0 C:\xampp\htdocs\lifeq\app\Controllers\Cpharris.php(32): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string...', 'C:\\xampp\\htdocs...', 32)
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-25 23:43:22 --> Attempt to read property "KATEGORI_KEGIATAN" on array
+#0 C:\xampp\htdocs\lifeq\app\Controllers\Cpharris.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read...', 'C:\\xampp\\htdocs...', 38)
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-25 23:43:34 --> Undefined array key "Nkategori"
+#0 C:\xampp\htdocs\lifeq\app\Controllers\Cpharris.php(47): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 47)
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-25 23:43:49 --> Undefined array key "hasilAKE"
+#0 C:\xampp\htdocs\lifeq\app\Controllers\Cpharris.php(55): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 55)
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-25 23:44:31 --> Undefined array key "hasilAKE"
+#0 C:\xampp\htdocs\lifeq\app\Controllers\Cpharris.php(55): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 55)
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-25 23:45:10 --> Attempt to read property "KATEGORI_KEGIATAN" on array
+#0 C:\xampp\htdocs\lifeq\app\Controllers\Cpharris.php(40): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read...', 'C:\\xampp\\htdocs...', 40)
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-25 23:46:07 --> Array to string conversion
+#0 C:\xampp\htdocs\lifeq\app\Controllers\Cpharris.php(40): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string...', 'C:\\xampp\\htdocs...', 40)
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-25 23:46:57 --> syntax error, unexpected single-quoted string "KATEGORI_KEGIATAN", expecting identifier or variable or "{" or "$"
+#0 C:\xampp\htdocs\lifeq\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('Cpharris/AKE')
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('Cpharris/AKE')
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-25 23:47:08 --> Attempt to read property "KATEGORI_KEGIATAN" on array
+#0 C:\xampp\htdocs\lifeq\app\Controllers\Cpharris.php(40): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read...', 'C:\\xampp\\htdocs...', 40)
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-25 23:48:50 --> Attempt to read property "KATEGORI_KEGIATAN" on array
+#0 C:\xampp\htdocs\lifeq\app\Controllers\Cpharris.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read...', 'C:\\xampp\\htdocs...', 38)
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-25 23:49:30 --> Array to string conversion
+#0 C:\xampp\htdocs\lifeq\app\Controllers\Cpharris.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string...', 'C:\\xampp\\htdocs...', 38)
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-25 23:51:58 --> Array to string conversion
+#0 C:\xampp\htdocs\lifeq\app\Controllers\Cpharris.php(37): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string...', 'C:\\xampp\\htdocs...', 37)
+#1 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(832): App\Controllers\Cpharris->AKE()
+#2 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cpharris))
+#3 C:\xampp\htdocs\lifeq\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lifeq\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
